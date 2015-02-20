@@ -6,9 +6,9 @@ module Netdocuments
 
     def initialize(opts = {})
       @access_token =  Netdocuments::AccessToken.get.access_token
-      @end_point =  'https://api.vault.netvoyage.com'
-      @cabinet_id = 'CA-EKOBPSMJ'
-      @headers = {'Authorization' => "Bearer #{access_token}"}
+      @end_point   =  'https://api.vault.netvoyage.com'
+      @cabinet_id  = 'CA-EKOBPSMJ'
+      @headers     = {'Authorization' => "Bearer #{access_token}"}
     end
 
 
@@ -21,8 +21,12 @@ module Netdocuments
 
 
     def get(opts = {})
-      ap "Processing with: #{opts}"
       response = HTTParty.get(@end_point + opts[:url],query: opts[:query],headers: @headers.merge(opts[:headers] || {}))
+      response
+    end
+
+    def put(opts = {})
+      response = HTTParty.put(@end_point + opts[:url],body: opts[:query],headers: @headers.merge(opts[:headers] || {}))
       response
     end
   end

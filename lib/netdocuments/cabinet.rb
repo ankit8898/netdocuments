@@ -12,7 +12,6 @@ module Netdocuments
     def folders
       response = get(url: "/v1/Cabinet/#{@id}/folders",query: {'$select' => "standardAttributes"})
       response["ndList"]["standardList"]["ndProfile.DocumentStat"]
-
     end
 
     def info
