@@ -38,18 +38,19 @@ module Netdocuments
     end
 
     def subfolders
-      main = []
-      ids = [{id: @id,parent: '/Ankit'}]
+      ap "Starting subfolder collection for: #{name}"
+      nodes = []
+      ids = [{id: @id,parent: "WorkspaceResetTest/#{name}"}]
       loop do
         r =  ids.collect do |id|
           folder_extraction(id)
         end.flatten!
-        main << r
+        nodes << r
         folders = r.select {|i| i.extension == 'ndfld'}
         ids = folders.collect {|o| {id: o.id,parent: "#{o.parent}/#{o.name}"}}
         break if ids.count == 0
       end
-      main.flatten
+      nodes.flatten!
     end
 
 
