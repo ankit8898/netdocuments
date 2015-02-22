@@ -1,0 +1,26 @@
+# Logfile created on 2015-02-22 15:09:10 -0500 by logger.rb/47272
+I, [2015-02-22T15:09:11.100117 #5524]  INFO -- : Fetching folders...
+I, [2015-02-22T15:09:16.880865 #5524]  INFO -- : Starting subfolder collection for: Folder1
+I, [2015-02-22T15:09:16.899019 #5524]  INFO -- : Starting subfolder collection for: Ankit
+I, [2015-02-22T15:09:16.899109 #5524]  INFO -- : Starting subfolder collection for: Folder-Ankit
+I, [2015-02-22T15:09:16.914595 #5524]  INFO -- : Starting subfolder collection for: Folder2
+I, [2015-02-22T15:09:16.914683 #5524]  INFO -- : Starting subfolder collection for: Cabinet Inbox
+I, [2015-02-22T15:09:18.881930 #5524]  INFO -- : Starting subfolder collection for: Cabinet Inbox
+I, [2015-02-22T15:09:19.138609 #5524]  INFO -- : Starting subfolder collection for: Folder-Ankit
+I, [2015-02-22T15:09:19.693696 #5524]  INFO -- : Collected: 0
+I, [2015-02-22T15:09:19.971735 #5524]  INFO -- : Collected: 2
+I, [2015-02-22T15:09:19.971932 #5524]  INFO -- : Updating all-sites-2011-2015 with file path as WorkspaceResetTest/Folder-Ankit
+I, [2015-02-22T15:09:19.972013 #5524]  INFO -- : Updating all-site-without-timerange with file path as WorkspaceResetTest/Folder-Ankit
+I, [2015-02-22T15:09:23.410011 #5524]  INFO -- : Starting subfolder collection for: Folder2
+I, [2015-02-22T15:09:25.281801 #5524]  INFO -- : Collected: 11
+I, [2015-02-22T15:09:25.282106 #5524]  INFO -- : Updating Analytx with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T15:09:25.282177 #5524]  INFO -- : Updating GAPP plan_ABC_80 with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T15:09:25.282232 #5524]  INFO -- : Updating Global segmentation_ABC_86 with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T15:09:25.282274 #5524]  INFO -- : Updating Launch training plan_GHI_102 with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T15:09:25.300744 #5524]  INFO -- : Updating Launch training plan_GHI_105 with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T15:09:25.300823 #5524]  INFO -- : Updating Launch training plan_GHI_99 with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T15:09:25.300906 #5524]  INFO -- : Updating Market assessment_GHI_15 with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T15:09:25.300956 #5524]  INFO -- : Updating Market Research Plan for XYZ with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T15:09:25.301018 #5524]  INFO -- : Updating Royalty Statements-1 with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T15:09:25.301154 #5524]  INFO -- : Updating Vision & positioning_GHI_24 with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T15:09:25.301200 #5524]  INFO -- : Updating Competitive intelligence_GHI_9 with file path as WorkspaceResetTest/Folder2/Analytx

@@ -11,13 +11,15 @@ module Netdocuments
 
     def find_folder_tree_and_update_file_path
       subfolders_count = 0
-      folders.collect do |folder|
+      Parallel.map(folders,in_threads: 10) do |folder|
+        #folders.collect do |folder|
         subfolders = folder.subfolders
         subfolders_count = folder.subfolders.flatten.count
-        ap "Collected: #{subfolders_count}"
-        subfolders.each do |node|
-          node.update
-        end
+        $logger.info "Collected: #{subfolders_count}"
+        Parallel.map(subfolders,in_threads: 30){|node| node.update }
+        # subfolders.each do |node|
+        #   node.update
+        # end
       end
       subfolders_count
     end
@@ -27,6 +29,7 @@ module Netdocuments
     end
 
     def folders
+      $logger.info "Fetching folders..."
       response = get(url: "/v1/Cabinet/#{@id}/folders",query: {'$select' => "standardAttributes"})
       response["ndList"]["standardList"]["ndProfile.DocumentStat"].collect {|i| Netdocuments::Folder.new({id: i['id'],name: i['name']})}
     end

@@ -13,11 +13,12 @@ module Netdocuments
 
 
     def create
-      response = post(url: '/v1/Folder',body: {name: @name, parent: @parent,cabinet: @cabinet_id})
+      post(url: '/v1/Folder',
+           body: {name: @name, parent: @parent,cabinet: @cabinet_id})
     end
 
     def info
-      response = get(url: "/v1/Folder/#{@id}/info")
+      get(url: "/v1/Folder/#{@id}/info")
     end
 
     def folder_content
@@ -25,15 +26,15 @@ module Netdocuments
         response = get(url: "/v1/Folder/#{id}",query: {'$select' => "standardAttributes"})
         response["ndList"]["standardList"].nil? ? [] : [response["ndList"]["standardList"]["ndProfile.DocumentStat"]].flatten
       rescue Exception => e
-        ap "----------#{id}-----#{e.message}"
+        $logger.error "----------#{id}-----#{e.message}"
       end
 
     end
 
 
     def folder_extraction(opts = {})
-      g = Netdocuments::Folder.new({id: opts[:id]}).folder_content
-      col = g.collect do |folder|
+      contents = Netdocuments::Folder.new({id: opts[:id]}).folder_content
+      col = contents.collect do |folder|
         obj = Netdocuments::Node.new(name: folder['name'],
                                      id: folder['id'],
                                      extension: folder['extension'],
@@ -42,18 +43,16 @@ module Netdocuments
       end
     end
 
+
     def subfolders
-      ap "Starting subfolder collection for: #{name}"
+      $logger.info "Starting subfolder collection for: #{name}"
       nodes = []
       ids = [{id: @id,parent: "WorkspaceResetTest/#{name}"}]
       loop do
         r =  ids.collect do |id|
-          ty = folder_extraction(id)
-          ap ty
-          ty
+          folder_extraction(id)
         end.flatten!
         nodes << r
-        ap nodes
         folders = r.select {|i| i.extension == 'ndfld'}
         ids = folders.collect {|o| {id: o.id,parent: "#{o.parent}/#{o.name}"}}
         break if ids.count == 0
@@ -67,7 +66,9 @@ module Netdocuments
     end
 
     def update_info(opts = {})
-      response = put(url: "/v1/Folder/#{@id}/info",query: opts[:query],headers: {'Content-Type' => 'application/json'})
+      response = put(url: "/v1/Folder/#{@id}/info",
+                     query: opts[:query],
+                     headers: {'Content-Type' => 'application/json'})
     end
   end
 end

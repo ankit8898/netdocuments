@@ -1,0 +1,1774 @@
+I, [2015-02-22T14:30:50.934803 #4983]  INFO -- : Fetching folders...
+I, [2015-02-22T14:30:57.384095 #4983]  INFO -- : Starting subfolder collection for: Folder1
+I, [2015-02-22T14:30:57.401731 #4983]  INFO -- : Starting subfolder collection for: Ankit
+I, [2015-02-22T14:30:57.416749 #4983]  INFO -- : Starting subfolder collection for: Folder-Ankit
+I, [2015-02-22T14:30:57.433672 #4983]  INFO -- : Starting subfolder collection for: Folder2
+I, [2015-02-22T14:30:57.433799 #4983]  INFO -- : Starting subfolder collection for: Cabinet Inbox
+I, [2015-02-22T14:30:59.288353 #4983]  INFO -- : Starting subfolder collection for: Cabinet Inbox
+I, [2015-02-22T14:30:59.422576 #4983]  INFO -- : Starting subfolder collection for: Folder-Ankit
+I, [2015-02-22T14:31:00.377842 #4983]  INFO -- : Collected: 0
+I, [2015-02-22T14:31:00.459843 #4983]  INFO -- : Starting subfolder collection for: Folder2
+I, [2015-02-22T14:31:00.505993 #4983]  INFO -- : Collected: 2
+I, [2015-02-22T14:31:00.506140 #4983]  INFO -- : Updating all-sites-2011-2015 with file path as WorkspaceResetTest/Folder-Ankit
+I, [2015-02-22T14:31:00.506198 #4983]  INFO -- : Updating all-site-without-timerange with file path as WorkspaceResetTest/Folder-Ankit
+I, [2015-02-22T14:31:01.744243 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:31:01.817863 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:31:02.555416 #4983]  INFO -- : Collected: 11
+I, [2015-02-22T14:31:02.556042 #4983]  INFO -- : Updating Analytx with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T14:31:02.556112 #4983]  INFO -- : Updating GAPP plan_ABC_80 with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T14:31:02.572114 #4983]  INFO -- : Updating Global segmentation_ABC_86 with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T14:31:02.572164 #4983]  INFO -- : Updating Launch training plan_GHI_102 with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T14:31:02.572190 #4983]  INFO -- : Updating Launch training plan_GHI_105 with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T14:31:02.572214 #4983]  INFO -- : Updating Launch training plan_GHI_99 with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T14:31:02.572238 #4983]  INFO -- : Updating Market assessment_GHI_15 with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T14:31:02.572272 #4983]  INFO -- : Updating Market Research Plan for XYZ with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T14:31:02.572307 #4983]  INFO -- : Updating Royalty Statements-1 with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T14:31:02.572339 #4983]  INFO -- : Updating Vision & positioning_GHI_24 with file path as WorkspaceResetTest/Folder2
+I, [2015-02-22T14:31:02.572374 #4983]  INFO -- : Updating Competitive intelligence_GHI_9 with file path as WorkspaceResetTest/Folder2/Analytx
+I, [2015-02-22T14:31:03.794578 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:31:04.071500 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:31:04.320503 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:31:04.351809 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:31:04.352261 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:31:04.377333 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:31:04.439013 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:31:04.471878 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:31:04.860690 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:31:04.909593 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:31:05.012676 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:33:36.211124 #4983]  INFO -- : Starting subfolder collection for: Ankit
+I, [2015-02-22T14:36:07.719437 #4983]  INFO -- : Collected: 161
+I, [2015-02-22T14:36:07.811574 #4983]  INFO -- : Updating Friday - 0 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.811649 #4983]  INFO -- : Updating Friday - 1 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.811704 #4983]  INFO -- : Updating Friday - 10 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.811747 #4983]  INFO -- : Updating Friday - 11 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.811817 #4983]  INFO -- : Updating Friday - 12 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.811877 #4983]  INFO -- : Updating Friday - 13 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.811930 #4983]  INFO -- : Updating Friday - 14 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.811968 #4983]  INFO -- : Updating Friday - 15 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812003 #4983]  INFO -- : Updating Friday - 16 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812029 #4983]  INFO -- : Updating Friday - 17 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812054 #4983]  INFO -- : Updating Friday - 18 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812078 #4983]  INFO -- : Updating Friday - 19 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812102 #4983]  INFO -- : Updating Friday - 2 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812126 #4983]  INFO -- : Updating Friday - 20 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812211 #4983]  INFO -- : Updating Friday - 21 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812310 #4983]  INFO -- : Updating Friday - 22 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812343 #4983]  INFO -- : Updating Friday - 23 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812370 #4983]  INFO -- : Updating Friday - 24 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812395 #4983]  INFO -- : Updating Friday - 25 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812420 #4983]  INFO -- : Updating Friday - 26 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812445 #4983]  INFO -- : Updating Friday - 27 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812470 #4983]  INFO -- : Updating Friday - 28 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812495 #4983]  INFO -- : Updating Friday - 29 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812520 #4983]  INFO -- : Updating Friday - 3 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812545 #4983]  INFO -- : Updating Friday - 30 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812603 #4983]  INFO -- : Updating Friday - 31 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812657 #4983]  INFO -- : Updating Friday - 32 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812754 #4983]  INFO -- : Updating Friday - 33 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812798 #4983]  INFO -- : Updating Friday - 34 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:07.812827 #4983]  INFO -- : Updating Friday - 35 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.103877 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.118155 #4983]  INFO -- : Updating Friday - 36 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.185583 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.221811 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.222229 #4983]  INFO -- : Updating Friday - 37 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.240415 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.240499 #4983]  INFO -- : Updating Friday - 38 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.264163 #4983]  INFO -- : Updating Friday - 39 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.287903 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.290625 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.308289 #4983]  INFO -- : Updating Friday - 4 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.308984 #4983]  INFO -- : Updating Friday - 40 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.412610 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.412706 #4983]  INFO -- : Updating Friday - 41 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.432421 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.432529 #4983]  INFO -- : Updating Friday - 42 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.449004 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.449110 #4983]  INFO -- : Updating Friday - 43 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.464750 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.465646 #4983]  INFO -- : Updating Friday - 44 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.507018 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.507087 #4983]  INFO -- : Updating Friday - 45 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.691196 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.691294 #4983]  INFO -- : Updating Friday - 46 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.722268 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.722359 #4983]  INFO -- : Updating Friday - 47 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.786525 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.786754 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.786820 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.786866 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.786904 #4983]  INFO -- : Updating Friday - 48 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.787002 #4983]  INFO -- : Updating Friday - 49 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.787060 #4983]  INFO -- : Updating Friday - 5 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.787124 #4983]  INFO -- : Updating Friday - 50 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.836724 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.837011 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.854114 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.855302 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.856355 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.907885 #4983]  INFO -- : Updating Friday - 55 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.871809 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.905841 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.907601 #4983]  INFO -- : Updating Friday - 52 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.907781 #4983]  INFO -- : Updating Friday - 53 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.907838 #4983]  INFO -- : Updating Friday - 54 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.871896 #4983]  INFO -- : Updating Friday - 51 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.924862 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.098743 #4983]  INFO -- : Updating Friday - 58 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:09.927584 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.945323 #4983]  INFO -- : Updating Friday - 57 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.098029 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.098097 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:09.925988 #4983]  INFO -- : Updating Friday - 56 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.129083 #4983]  INFO -- : Updating Friday - 59 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.147780 #4983]  INFO -- : Updating Friday - 6 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.147908 #4983]  INFO -- : Updating Friday - 60 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.264861 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.268185 #4983]  INFO -- : Updating Friday - 61 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.291026 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.305513 #4983]  INFO -- : Updating Friday - 62 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.342674 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.342747 #4983]  INFO -- : Updating Friday - 63 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.405973 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.406092 #4983]  INFO -- : Updating Friday - 64 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.509968 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.510099 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.510226 #4983]  INFO -- : Updating Friday - 66 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.510166 #4983]  INFO -- : Updating Friday - 65 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.547542 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.563316 #4983]  INFO -- : Updating Friday - 67 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.646366 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.665150 #4983]  INFO -- : Updating Friday - 68 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.752372 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.760033 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.760099 #4983]  INFO -- : Updating Friday - 69 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.761340 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.761398 #4983]  INFO -- : Updating Friday - 7 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.782050 #4983]  INFO -- : Updating Friday - 70 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.787438 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.840145 #4983]  INFO -- : Updating Friday - 71 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.910568 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.910631 #4983]  INFO -- : Updating Friday - 72 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.929733 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.950563 #4983]  INFO -- : Updating Friday - 73 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:10.966846 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:10.983589 #4983]  INFO -- : Updating Friday - 74 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.001178 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.025707 #4983]  INFO -- : Updating Friday - 75 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.026606 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.089822 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.089885 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.120290 #4983]  INFO -- : Updating Friday - 78 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.090613 #4983]  INFO -- : Updating Friday - 76 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.120198 #4983]  INFO -- : Updating Friday - 77 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.185755 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.186334 #4983]  INFO -- : Updating Friday - 79 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.208720 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.216082 #4983]  INFO -- : Updating Friday - 8 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.216186 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.270922 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.271004 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.271051 #4983]  INFO -- : Updating Friday - 80 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.311831 #4983]  INFO -- : Updating Friday - 81 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.311981 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.314812 #4983]  INFO -- : Updating Friday - 82 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.347116 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.348804 #4983]  INFO -- : Updating Friday - 83 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.372162 #4983]  INFO -- : Updating Friday - 84 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.406837 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.463581 #4983]  INFO -- : Updating Friday - 85 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.506703 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.507426 #4983]  INFO -- : Updating Friday - 86 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.507511 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.524915 #4983]  INFO -- : Updating Friday - 87 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.547707 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.547785 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.548215 #4983]  INFO -- : Updating Friday - 88 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.548988 #4983]  INFO -- : Updating Friday - 89 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.581986 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.582082 #4983]  INFO -- : Updating Friday - 9 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.617578 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.618523 #4983]  INFO -- : Updating Friday - 90 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.638195 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.638258 #4983]  INFO -- : Updating Friday - 91 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.656587 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.657868 #4983]  INFO -- : Updating Friday - 92 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.674972 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.675041 #4983]  INFO -- : Updating Friday - 93 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.791097 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.791161 #4983]  INFO -- : Updating Friday - 94 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.837137 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.840990 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.842122 #4983]  INFO -- : Updating Friday - 95 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.842238 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.858034 #4983]  INFO -- : Updating Friday - 96 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.879490 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:11.879558 #4983]  INFO -- : Updating Friday - 97 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:11.931344 #4983]  INFO -- : Updating Friday - 98 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:12.029011 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.029104 #4983]  INFO -- : Updating Friday - 99 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:12.177721 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.178833 #4983]  INFO -- : Updating W2 with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:12.214787 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.216437 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.216534 #4983]  INFO -- : Updating loe_model_cost (4) with file path as WorkspaceResetTest/Ankit
+I, [2015-02-22T14:36:12.223767 #4983]  INFO -- : Updating Friday-1.0 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.228064 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.248725 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.360537 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.360627 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.386736 #4983]  INFO -- : Updating Friday-1.12 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.365278 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.382743 #4983]  INFO -- : Updating Friday-1.1 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.386549 #4983]  INFO -- : Updating Friday-1.10 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.386667 #4983]  INFO -- : Updating Friday-1.11 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.365421 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.405516 #4983]  INFO -- : Updating Friday-1.13 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.486090 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.503025 #4983]  INFO -- : Updating Friday-1.14 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.552052 #4983]  INFO -- : Updating Friday-1.15 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.552546 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.590748 #4983]  INFO -- : Updating Friday-1.16 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.637162 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.637617 #4983]  INFO -- : Updating Friday-1.17 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.703228 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.703288 #4983]  INFO -- : Updating Friday-1.18 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.718888 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.719403 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.736986 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.737047 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.737083 #4983]  INFO -- : Updating Friday-1.19 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.737222 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.738028 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.742705 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.742781 #4983]  INFO -- : Updating Friday-1.2 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.746543 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.746646 #4983]  INFO -- : Updating Friday-1.20 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.746719 #4983]  INFO -- : Updating Friday-1.21 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.762376 #4983]  INFO -- : Updating Friday-1.22 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.762944 #4983]  INFO -- : Updating Friday-1.23 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.763021 #4983]  INFO -- : Updating Friday-1.24 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.785146 #4983]  INFO -- : Updating Friday-1.25 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:12.807173 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.807249 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.833922 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:12.857298 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.033640 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.078244 #4983]  INFO -- : Updating Friday-1.26 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.078352 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.105457 #4983]  INFO -- : Updating Friday-1.27 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.107896 #4983]  INFO -- : Updating Friday-1.28 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.112094 #4983]  INFO -- : Updating Friday-1.29 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.112147 #4983]  INFO -- : Updating Friday-1.3 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.128092 #4983]  INFO -- : Updating Friday-1.30 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.181624 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.276197 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.353792 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.382832 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.413625 #4983]  INFO -- : Updating Friday-1.34 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.406662 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.413483 #4983]  INFO -- : Updating Friday-1.32 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.413562 #4983]  INFO -- : Updating Friday-1.33 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.409687 #4983]  INFO -- : Updating Friday-1.31 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.442063 #4983]  INFO -- : Updating Friday-1.35 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.481229 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.536281 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.571954 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.678027 #4983]  INFO -- : Updating Friday-1.36 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.678953 #4983]  INFO -- : Updating Friday-1.37 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.679044 #4983]  INFO -- : Updating Friday-1.38 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.713002 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.714631 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.756680 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.774701 #4983]  INFO -- : Updating Friday-1.40 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.774335 #4983]  INFO -- : Updating Friday-1.39 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.774635 #4983]  INFO -- : Updating Friday-1.4 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.866684 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.866751 #4983]  INFO -- : Updating Friday-1.41 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.929213 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.932802 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.962755 #4983]  INFO -- : Updating Friday-1.42 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.962857 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.962917 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.974043 #4983]  INFO -- : Updating Friday-1.43 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:13.974182 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.998766 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:13.998839 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.033457 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.040215 #4983]  INFO -- : Updating Friday-1.44 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:14.040299 #4983]  INFO -- : Updating Friday-1.45 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:14.056723 #4983]  INFO -- : Updating Friday-1.46 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:14.056827 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.056931 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.057074 #4983]  INFO -- : Updating Friday-1.47 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:14.057248 #4983]  INFO -- : Updating Friday-1.48 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:14.057345 #4983]  INFO -- : Updating Friday-1.49 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:14.096977 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.141878 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.146206 #4983]  INFO -- : Updating Friday-1.5 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:14.149635 #4983]  INFO -- : Updating Friday-1.6 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:14.243117 #4983]  INFO -- : Updating Friday-1.7 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:14.288138 #4983]  INFO -- : Updating Friday-1.8 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:14.288262 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.394353 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.413515 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.437340 #4983]  INFO -- : Updating w2.2 with file path as WorkspaceResetTest/Ankit/W2
+I, [2015-02-22T14:36:14.437029 #4983]  INFO -- : Updating Friday-1.9 with file path as WorkspaceResetTest/Ankit/Friday - 1
+I, [2015-02-22T14:36:14.437275 #4983]  INFO -- : Updating w2.1 with file path as WorkspaceResetTest/Ankit/W2
+I, [2015-02-22T14:36:14.437218 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.575594 #4983]  INFO -- : Updating loe-cost108 with file path as WorkspaceResetTest/Ankit/W2
+I, [2015-02-22T14:36:14.579497 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.595153 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.613632 #4983]  INFO -- : Updating loe_model_cost (4) with file path as WorkspaceResetTest/Ankit/W2/w2.1
+I, [2015-02-22T14:36:14.651844 #4983]  INFO -- : Updating w2.2.1 with file path as WorkspaceResetTest/Ankit/W2/w2.2
+I, [2015-02-22T14:36:14.678974 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.697428 #4983]  INFO -- : Updating w2.2.2 with file path as WorkspaceResetTest/Ankit/W2/w2.2
+I, [2015-02-22T14:36:14.727018 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.763706 #4983]  INFO -- : Updating TxDOT LoE Tool Sample Multi Project Input File 20150120 v2 with file path as WorkspaceResetTest/Ankit/W2/w2.2
+I, [2015-02-22T14:36:14.865398 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.867098 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.867644 #4983]  INFO -- : Updating w.2.2.2.1 with file path as WorkspaceResetTest/Ankit/W2/w2.2/w2.2.2
+I, [2015-02-22T14:36:14.870013 #4983]  INFO -- : Updating anks with file path as WorkspaceResetTest/Ankit/W2/w2.2/w2.2.2/w.2.2.2.1
+I, [2015-02-22T14:36:14.910121 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.957823 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:14.957934 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.047608 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.047703 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.331343 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.332332 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.373753 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.394350 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.419276 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.426194 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.426305 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.505645 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.506420 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.516434 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.516781 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.528747 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.603613 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.629540 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.755983 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.756459 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.756854 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.773318 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.781689 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.793305 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.793458 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.827344 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.855313 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:15.870169 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:36:16.280446 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:44:13.304889 #4983]  INFO -- : Starting subfolder collection for: Folder1
+I, [2015-02-22T14:59:16.437562 #4983]  INFO -- : Collected: 705
+I, [2015-02-22T14:59:16.438544 #4983]  INFO -- : Updating Folder1.0 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.454342 #4983]  INFO -- : Updating Folder1.1 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.454412 #4983]  INFO -- : Updating Folder1.10 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.454460 #4983]  INFO -- : Updating Folder1.100 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.454512 #4983]  INFO -- : Updating Folder1.101 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.454562 #4983]  INFO -- : Updating Folder1.102 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.454586 #4983]  INFO -- : Updating Folder1.103 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.454653 #4983]  INFO -- : Updating Folder1.104 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.454689 #4983]  INFO -- : Updating Folder1.105 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.454724 #4983]  INFO -- : Updating Folder1.106 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.454757 #4983]  INFO -- : Updating Folder1.107 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.454785 #4983]  INFO -- : Updating Folder1.108 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.454808 #4983]  INFO -- : Updating Folder1.109 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.454830 #4983]  INFO -- : Updating Folder1.11 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.458079 #4983]  INFO -- : Updating Folder1.110 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.458120 #4983]  INFO -- : Updating Folder1.111 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.458144 #4983]  INFO -- : Updating Folder1.112 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.458166 #4983]  INFO -- : Updating Folder1.113 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.458187 #4983]  INFO -- : Updating Folder1.114 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.458208 #4983]  INFO -- : Updating Folder1.115 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.458230 #4983]  INFO -- : Updating Folder1.116 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.458251 #4983]  INFO -- : Updating Folder1.117 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.458273 #4983]  INFO -- : Updating Folder1.118 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.458294 #4983]  INFO -- : Updating Folder1.119 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.458426 #4983]  INFO -- : Updating Folder1.12 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.458464 #4983]  INFO -- : Updating Folder1.120 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.458487 #4983]  INFO -- : Updating Folder1.121 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.458508 #4983]  INFO -- : Updating Folder1.122 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.458529 #4983]  INFO -- : Updating Folder1.123 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:16.458549 #4983]  INFO -- : Updating Folder1.124 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:17.731805 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:17.732601 #4983]  INFO -- : Updating Folder1.125 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:17.774342 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:17.817860 #4983]  INFO -- : Updating Folder1.126 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:17.840840 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:17.869761 #4983]  INFO -- : Updating Folder1.127 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:17.955147 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:17.956261 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:17.976846 #4983]  INFO -- : Updating Folder1.128 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:17.978701 #4983]  INFO -- : Updating Folder1.129 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.031820 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.031888 #4983]  INFO -- : Updating Folder1.13 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.053594 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.060397 #4983]  INFO -- : Updating Folder1.130 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.082576 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.082661 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.082712 #4983]  INFO -- : Updating Folder1.131 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.086236 #4983]  INFO -- : Updating Folder1.132 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.086323 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.105061 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.128834 #4983]  INFO -- : Updating Folder1.133 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.133766 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.133843 #4983]  INFO -- : Updating Folder1.134 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.161849 #4983]  INFO -- : Updating Folder1.135 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.162476 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.162527 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.162607 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.166473 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.219488 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.224134 #4983]  INFO -- : Updating Folder1.136 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.224203 #4983]  INFO -- : Updating Folder1.137 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.224250 #4983]  INFO -- : Updating Folder1.138 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.224303 #4983]  INFO -- : Updating Folder1.139 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.224361 #4983]  INFO -- : Updating Folder1.14 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.248233 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.343796 #4983]  INFO -- : Updating Folder1.140 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.274307 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.329155 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.362510 #4983]  INFO -- : Updating Folder1.142 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.274370 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.362434 #4983]  INFO -- : Updating Folder1.141 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.378993 #4983]  INFO -- : Updating Folder1.143 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.379182 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.379265 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.415991 #4983]  INFO -- : Updating Folder1.144 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.417485 #4983]  INFO -- : Updating Folder1.145 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.433830 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.434226 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.455246 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.455770 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.473086 #4983]  INFO -- : Updating Folder1.149 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.470917 #4983]  INFO -- : Updating Folder1.146 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.472938 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.473021 #4983]  INFO -- : Updating Folder1.148 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.472842 #4983]  INFO -- : Updating Folder1.147 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.521397 #4983]  INFO -- : Updating Folder1.15 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.638274 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.638345 #4983]  INFO -- : Updating Folder1.150 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.666235 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.666308 #4983]  INFO -- : Updating Folder1.151 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.794649 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.794755 #4983]  INFO -- : Updating Folder1.152 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.910516 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.910592 #4983]  INFO -- : Updating Folder1.153 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:18.952928 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:18.953009 #4983]  INFO -- : Updating Folder1.154 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:19.053399 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:19.053472 #4983]  INFO -- : Updating Folder1.155 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:19.091455 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:19.091559 #4983]  INFO -- : Updating Folder1.156 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:19.191040 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:19.191133 #4983]  INFO -- : Updating Folder1.157 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.128172 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.128244 #4983]  INFO -- : Updating Folder1.158 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.187427 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.187498 #4983]  INFO -- : Updating Folder1.159 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.206885 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.208247 #4983]  INFO -- : Updating Folder1.16 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.208323 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.227831 #4983]  INFO -- : Updating Folder1.160 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.227212 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.244779 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.244863 #4983]  INFO -- : Updating Folder1.161 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.244912 #4983]  INFO -- : Updating Folder1.162 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.282581 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.282677 #4983]  INFO -- : Updating Folder1.163 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.300320 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.300767 #4983]  INFO -- : Updating Folder1.164 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.324553 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.325451 #4983]  INFO -- : Updating Folder1.165 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.345432 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.345515 #4983]  INFO -- : Updating Folder1.166 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.360850 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.361523 #4983]  INFO -- : Updating Folder1.167 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.361611 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.361672 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.379295 #4983]  INFO -- : Updating Folder1.169 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.379204 #4983]  INFO -- : Updating Folder1.168 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.417265 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.417430 #4983]  INFO -- : Updating Folder1.17 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.439867 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.439935 #4983]  INFO -- : Updating Folder1.170 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.468518 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.473640 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.473699 #4983]  INFO -- : Updating Folder1.171 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.473746 #4983]  INFO -- : Updating Folder1.172 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:20.645770 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:20.645843 #4983]  INFO -- : Updating Folder1.173 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:21.933914 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:21.933974 #4983]  INFO -- : Updating Folder1.174 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:21.967329 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:21.967402 #4983]  INFO -- : Updating Folder1.175 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.048818 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.088471 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.092482 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.133554 #4983]  INFO -- : Updating Folder1.178 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.092633 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.093058 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.126748 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.127625 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.128750 #4983]  INFO -- : Updating Folder1.176 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.132407 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.132486 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.133455 #4983]  INFO -- : Updating Folder1.177 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.092697 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.149714 #4983]  INFO -- : Updating Folder1.179 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.161177 #4983]  INFO -- : Updating Folder1.18 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.161246 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.162162 #4983]  INFO -- : Updating Folder1.180 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.162225 #4983]  INFO -- : Updating Folder1.181 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.183631 #4983]  INFO -- : Updating Folder1.182 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.185237 #4983]  INFO -- : Updating Folder1.183 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.202705 #4983]  INFO -- : Updating Folder1.184 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.202823 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.242322 #4983]  INFO -- : Updating Folder1.185 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.296167 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.349139 #4983]  INFO -- : Updating Folder1.187 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.332097 #4983]  INFO -- : Updating Folder1.186 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.441015 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.441629 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.441724 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.441788 #4983]  INFO -- : Updating Folder1.188 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.441884 #4983]  INFO -- : Updating Folder1.189 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.441953 #4983]  INFO -- : Updating Folder1.19 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.477316 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.498891 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.498962 #4983]  INFO -- : Updating Folder1.190 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.499006 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.499050 #4983]  INFO -- : Updating Folder1.191 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.514288 #4983]  INFO -- : Updating Folder1.192 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.515158 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.555606 #4983]  INFO -- : Updating Folder1.193 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.577166 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.580924 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.585603 #4983]  INFO -- : Updating Folder1.195 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.584427 #4983]  INFO -- : Updating Folder1.194 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.585199 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.585538 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.584338 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.638662 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.639006 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.678839 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:22.733392 #4983]  INFO -- : Updating Folder1.20 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.681213 #4983]  INFO -- : Updating Folder1.196 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.729911 #4983]  INFO -- : Updating Folder1.198 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.730055 #4983]  INFO -- : Updating Folder1.199 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.733301 #4983]  INFO -- : Updating Folder1.2 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:22.728543 #4983]  INFO -- : Updating Folder1.197 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.141738 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.141802 #4983]  INFO -- : Updating Folder1.21 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.251366 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.251953 #4983]  INFO -- : Updating Folder1.22 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.274104 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.274179 #4983]  INFO -- : Updating Folder1.23 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.365457 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.365524 #4983]  INFO -- : Updating Folder1.24 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.386612 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.386716 #4983]  INFO -- : Updating Folder1.25 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.407962 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.420216 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.420744 #4983]  INFO -- : Updating Folder1.26 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.420808 #4983]  INFO -- : Updating Folder1.27 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.515646 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.515710 #4983]  INFO -- : Updating Folder1.28 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.535373 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.535436 #4983]  INFO -- : Updating Folder1.29 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.576913 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.576981 #4983]  INFO -- : Updating Folder1.3 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.592229 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.592334 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.677109 #4983]  INFO -- : Updating Folder1.31 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.651090 #4983]  INFO -- : Updating Folder1.30 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.676916 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.607285 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.677372 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.757440 #4983]  INFO -- : Updating Folder1.34 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.726940 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.727118 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.727185 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.728556 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.757183 #4983]  INFO -- : Updating Folder1.32 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.757301 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.757387 #4983]  INFO -- : Updating Folder1.33 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.692371 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.777120 #4983]  INFO -- : Updating Folder1.35 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.777228 #4983]  INFO -- : Updating Folder1.36 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.777321 #4983]  INFO -- : Updating Folder1.37 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.777379 #4983]  INFO -- : Updating Folder1.38 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.802298 #4983]  INFO -- : Updating Folder1.39 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.842013 #4983]  INFO -- : Updating Folder1.4 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:23.935365 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:23.936905 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.038138 #4983]  INFO -- : Updating Folder1.40 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.042884 #4983]  INFO -- : Updating Folder1.41 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.135037 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.150850 #4983]  INFO -- : Updating Folder1.42 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.150959 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.209516 #4983]  INFO -- : Updating Folder1.43 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.211826 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.243264 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.243523 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.243640 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.264182 #4983]  INFO -- : Updating Folder1.44 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.265604 #4983]  INFO -- : Updating Folder1.45 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.265673 #4983]  INFO -- : Updating Folder1.46 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.265735 #4983]  INFO -- : Updating Folder1.47 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.322596 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.359606 #4983]  INFO -- : Updating Folder1.48 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.381487 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.381582 #4983]  INFO -- : Updating Folder1.49 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.409640 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.409713 #4983]  INFO -- : Updating Folder1.5 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.533859 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.533933 #4983]  INFO -- : Updating Folder1.50 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.601841 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.601918 #4983]  INFO -- : Updating Folder1.51 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.622078 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.622900 #4983]  INFO -- : Updating Folder1.52 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.767320 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.767391 #4983]  INFO -- : Updating Folder1.53 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.786406 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.786485 #4983]  INFO -- : Updating Folder1.54 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.924564 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.924689 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.969645 #4983]  INFO -- : Updating Folder1.56 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.942485 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.946950 #4983]  INFO -- : Updating Folder1.55 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:24.942611 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:24.986023 #4983]  INFO -- : Updating Folder1.57 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.027145 #4983]  INFO -- : Updating Folder1.58 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.164712 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.164805 #4983]  INFO -- : Updating Folder1.59 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.220032 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.220098 #4983]  INFO -- : Updating Folder1.6 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.277583 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.277641 #4983]  INFO -- : Updating Folder1.60 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.294958 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.295201 #4983]  INFO -- : Updating Folder1.61 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.295130 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.313127 #4983]  INFO -- : Updating Folder1.62 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.335473 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.335557 #4983]  INFO -- : Updating Folder1.63 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.357119 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.357203 #4983]  INFO -- : Updating Folder1.64 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.431304 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.431403 #4983]  INFO -- : Updating Folder1.65 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.460720 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.460804 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.460854 #4983]  INFO -- : Updating Folder1.66 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.460955 #4983]  INFO -- : Updating Folder1.67 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.515774 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.519307 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.530453 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.530619 #4983]  INFO -- : Updating Folder1.68 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.548731 #4983]  INFO -- : Updating Folder1.69 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.555482 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.555542 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.583281 #4983]  INFO -- : Updating Folder1.7 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.607189 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.629827 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.743405 #4983]  INFO -- : Updating Folder1.70 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.747694 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.787241 #4983]  INFO -- : Updating Folder1.74 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.749034 #4983]  INFO -- : Updating Folder1.71 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.770337 #4983]  INFO -- : Updating Folder1.73 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.770251 #4983]  INFO -- : Updating Folder1.72 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.842913 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.843026 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.860920 #4983]  INFO -- : Updating Folder1.75 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.861004 #4983]  INFO -- : Updating Folder1.76 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.960495 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.963904 #4983]  INFO -- : Updating Folder1.77 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:25.992123 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:25.992238 #4983]  INFO -- : Updating Folder1.78 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.050979 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.051047 #4983]  INFO -- : Updating Folder1.79 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.192369 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.193158 #4983]  INFO -- : Updating Folder1.8 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.260576 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.260656 #4983]  INFO -- : Updating Folder1.80 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.285523 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.285653 #4983]  INFO -- : Updating Folder1.81 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.313149 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.313419 #4983]  INFO -- : Updating Folder1.82 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.337736 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.338466 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.358802 #4983]  INFO -- : Updating Folder1.83 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.377384 #4983]  INFO -- : Updating Folder1.84 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.436364 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.436799 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.436910 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.436955 #4983]  INFO -- : Updating Folder1.85 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.441912 #4983]  INFO -- : Updating Folder1.86 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.442246 #4983]  INFO -- : Updating Folder1.87 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.633929 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.650258 #4983]  INFO -- : Updating Folder1.88 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.650370 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.672303 #4983]  INFO -- : Updating Folder1.89 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.675852 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.695637 #4983]  INFO -- : Updating Folder1.9 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.749308 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.749461 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.782673 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.783738 #4983]  INFO -- : Updating Folder1.90 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.837309 #4983]  INFO -- : Updating Folder1.91 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.837381 #4983]  INFO -- : Updating Folder1.92 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.968376 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:26.969655 #4983]  INFO -- : Updating Folder1.93 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:26.985876 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.011008 #4983]  INFO -- : Updating Folder1.94 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:27.071573 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.090581 #4983]  INFO -- : Updating Folder1.95 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:27.095544 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.111540 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.175219 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.175393 #4983]  INFO -- : Updating Folder1.96 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:27.181526 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.200219 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.231157 #4983]  INFO -- : Updating Folder1.97 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:27.237159 #4983]  INFO -- : Updating Folder1.98 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:27.246207 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.286281 #4983]  INFO -- : Updating Folder1.99 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:27.296685 #4983]  INFO -- : Updating all-sites-pre-2000 with file path as WorkspaceResetTest/Folder1
+I, [2015-02-22T14:59:27.337617 #4983]  INFO -- : Updating Folder1.1.0 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:27.420316 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.420417 #4983]  INFO -- : Updating Folder1.1.1 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:27.482109 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.482195 #4983]  INFO -- : Updating Folder1.1.10 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:27.537889 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.538013 #4983]  INFO -- : Updating Folder1.1.100 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:27.558146 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.558213 #4983]  INFO -- : Updating Folder1.1.101 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:27.575664 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.575823 #4983]  INFO -- : Updating Folder1.1.102 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:27.585366 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.625366 #4983]  INFO -- : Updating Folder1.1.103 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:27.699778 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.701838 #4983]  INFO -- : Updating Folder1.1.104 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:27.758681 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.766256 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.767076 #4983]  INFO -- : Updating Folder1.1.105 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:27.774611 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.794273 #4983]  INFO -- : Updating Folder1.1.107 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:27.774808 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.774743 #4983]  INFO -- : Updating Folder1.1.106 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:27.794725 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.839575 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.885719 #4983]  INFO -- : Updating Folder1.1.11 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:27.851681 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.851770 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.867953 #4983]  INFO -- : Updating Folder1.1.109 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:27.847848 #4983]  INFO -- : Updating Folder1.1.108 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:27.928647 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:27.929392 #4983]  INFO -- : Updating Folder1.1.110 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:27.929506 #4983]  INFO -- : Updating Folder1.1.111 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:27.984598 #4983]  INFO -- : Updating Folder1.1.112 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:28.082522 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:28.111626 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:28.111695 #4983]  INFO -- : Updating Folder1.1.113 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:28.114556 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:28.136819 #4983]  INFO -- : Updating Folder1.1.115 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:28.117609 #4983]  INFO -- : Updating Folder1.1.114 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:28.117713 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:28.214702 #4983]  INFO -- : Updating Folder1.1.116 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:28.421916 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:28.433170 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:28.481830 #4983]  INFO -- : Updating Folder1.1.117 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:28.510679 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:28.558564 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:28.559624 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:28.627560 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:28.684644 #4983]  INFO -- : Updating Folder1.1.121 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:28.684430 #4983]  INFO -- : Updating Folder1.1.119 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:28.684515 #4983]  INFO -- : Updating Folder1.1.12 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:28.684580 #4983]  INFO -- : Updating Folder1.1.120 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:28.627622 #4983]  INFO -- : Updating Folder1.1.118 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:28.832521 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:28.948074 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.033821 #4983]  INFO -- : Updating Folder1.1.123 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:28.976456 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.007505 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.007122 #4983]  INFO -- : Updating Folder1.1.122 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.087579 #4983]  INFO -- : Updating Folder1.1.124 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.098290 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.098843 #4983]  INFO -- : Updating Folder1.1.125 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.158868 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.179098 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.207359 #4983]  INFO -- : Updating Folder1.1.128 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.189697 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.207272 #4983]  INFO -- : Updating Folder1.1.127 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.189573 #4983]  INFO -- : Updating Folder1.1.126 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.223654 #4983]  INFO -- : Updating Folder1.1.129 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.313865 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.319826 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.336697 #4983]  INFO -- : Updating Folder1.1.13 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.351100 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.358207 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.382663 #4983]  INFO -- : Updating Folder1.1.132 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.364705 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.398401 #4983]  INFO -- : Updating Folder1.1.133 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.365488 #4983]  INFO -- : Updating Folder1.1.130 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.364604 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.504695 #4983]  INFO -- : Updating Folder1.1.134 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.382533 #4983]  INFO -- : Updating Folder1.1.131 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.515606 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.659249 #4983]  INFO -- : Updating Folder1.1.135 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.541366 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.564133 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.564901 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.635383 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.637269 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.863695 #4983]  INFO -- : Updating Folder1.1.14 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.675162 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.883847 #4983]  INFO -- : Updating Folder1.1.140 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.763474 #4983]  INFO -- : Updating Folder1.1.136 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.817903 #4983]  INFO -- : Updating Folder1.1.137 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.862289 #4983]  INFO -- : Updating Folder1.1.138 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.863640 #4983]  INFO -- : Updating Folder1.1.139 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:29.563816 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.751077 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:29.884280 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.084589 #4983]  INFO -- : Updating Folder1.1.141 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.088693 #4983]  INFO -- : Updating Folder1.1.142 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.088768 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.088842 #4983]  INFO -- : Updating Folder1.1.143 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.135290 #4983]  INFO -- : Updating Folder1.1.144 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.194046 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.194147 #4983]  INFO -- : Updating Folder1.1.145 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.248377 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.248497 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.248569 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.248632 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.248724 #4983]  INFO -- : Updating Folder1.1.146 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.248802 #4983]  INFO -- : Updating Folder1.1.147 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.248862 #4983]  INFO -- : Updating Folder1.1.148 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.248929 #4983]  INFO -- : Updating Folder1.1.149 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.383178 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.404452 #4983]  INFO -- : Updating Folder1.1.15 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.436824 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.458079 #4983]  INFO -- : Updating Folder1.1.150 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.499954 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.500019 #4983]  INFO -- : Updating Folder1.1.151 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.517384 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.517464 #4983]  INFO -- : Updating Folder1.1.152 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.540974 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.541061 #4983]  INFO -- : Updating Folder1.1.153 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.562967 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.563056 #4983]  INFO -- : Updating Folder1.1.154 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.647496 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.647561 #4983]  INFO -- : Updating Folder1.1.155 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.665232 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.670493 #4983]  INFO -- : Updating Folder1.1.156 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.671054 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.724559 #4983]  INFO -- : Updating Folder1.1.157 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.748078 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.795754 #4983]  INFO -- : Updating Folder1.1.158 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.863406 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.863526 #4983]  INFO -- : Updating Folder1.1.159 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.879711 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.883766 #4983]  INFO -- : Updating Folder1.1.16 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.969939 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.986485 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:30.986550 #4983]  INFO -- : Updating Folder1.1.160 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:30.986657 #4983]  INFO -- : Updating Folder1.1.161 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.033156 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.048907 #4983]  INFO -- : Updating Folder1.1.162 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.204355 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.204424 #4983]  INFO -- : Updating Folder1.1.163 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.235661 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.236172 #4983]  INFO -- : Updating Folder1.1.164 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.287314 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.325304 #4983]  INFO -- : Updating Folder1.1.165 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.326134 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.334426 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.334561 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.395188 #4983]  INFO -- : Updating Folder1.1.168 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.334631 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.411599 #4983]  INFO -- : Updating Folder1.1.169 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.378202 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.395105 #4983]  INFO -- : Updating Folder1.1.167 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.374710 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.386429 #4983]  INFO -- : Updating Folder1.1.166 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.460548 #4983]  INFO -- : Updating Folder1.1.17 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.460634 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.564468 #4983]  INFO -- : Updating Folder1.1.170 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.641376 #4983]  INFO -- : Updating Folder1.1.171 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.641500 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.804769 #4983]  INFO -- : Updating Folder1.1.172 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.642979 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.743045 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.965924 #4983]  INFO -- : Updating Folder1.1.174 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.787781 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.975945 #4983]  INFO -- : Updating Folder1.1.175 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.648921 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.916487 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:32.050029 #4983]  INFO -- : Updating Folder1.1.177 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.956711 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.965177 #4983]  INFO -- : Updating Folder1.1.173 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.965621 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.800448 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:32.116220 #4983]  INFO -- : Updating Folder1.1.18 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:31.883541 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:32.032277 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:31.926543 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:32.088108 #4983]  INFO -- : Updating Folder1.1.178 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:32.111248 #4983]  INFO -- : Updating Folder1.1.179 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:32.030003 #4983]  INFO -- : Updating Folder1.1.176 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:32.147336 #4983]  INFO -- : Updating Folder1.1.180 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:32.149613 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:32.149681 #4983]  INFO -- : Updating Folder1.1.181 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:32.149768 #4983]  INFO -- : Updating Folder1.1.182 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:32.198101 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:32.369288 #4983]  INFO -- : Updating Folder1.1.184 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:32.260612 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:32.400520 #4983]  INFO -- : Updating Folder1.1.185 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:32.320592 #4983]  INFO -- : Updating Folder1.1.183 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:32.446243 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:32.587248 #4983]  INFO -- : Updating Folder1.1.186 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:32.565664 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:32.571322 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:32.764142 #4983]  INFO -- : Updating Folder1.1.188 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:32.621793 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:32.995297 #4983]  INFO -- : Updating Folder1.1.189 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:32.680517 #4983]  INFO -- : Updating Folder1.1.187 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:32.758017 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.092948 #4983]  INFO -- : Updating Folder1.1.19 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:32.621702 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:32.727476 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.020081 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.034688 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:32.927178 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.162922 #4983]  INFO -- : Updating Folder1.1.190 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.212234 #4983]  INFO -- : Updating Folder1.1.191 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.213958 #4983]  INFO -- : Updating Folder1.1.192 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.215382 #4983]  INFO -- : Updating Folder1.1.193 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.215538 #4983]  INFO -- : Updating Folder1.1.194 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.309986 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.310054 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.310093 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.368397 #4983]  INFO -- : Updating Folder1.1.195 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.382100 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.382179 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.417077 #4983]  INFO -- : Updating Folder1.1.199 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.382235 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.467655 #4983]  INFO -- : Updating Folder1.1.2 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.382371 #4983]  INFO -- : Updating Folder1.1.197 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.382287 #4983]  INFO -- : Updating Folder1.1.196 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.407153 #4983]  INFO -- : Updating Folder1.1.198 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.511173 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.526999 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.698958 #4983]  INFO -- : Updating Folder1.1.200 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.571119 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.584343 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.585961 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.792729 #4983]  INFO -- : Updating Folder1.1.203 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.586968 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.689045 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.697395 #4983]  INFO -- : Updating Folder1.1.20 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.577120 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.770728 #4983]  INFO -- : Updating Folder1.1.201 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.792646 #4983]  INFO -- : Updating Folder1.1.202 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.683768 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.953125 #4983]  INFO -- : Updating Folder1.1.207 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.820737 #4983]  INFO -- : Updating Folder1.1.204 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.879237 #4983]  INFO -- : Updating Folder1.1.205 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.880453 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.902136 #4983]  INFO -- : Updating Folder1.1.206 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.909213 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:34.220386 #4983]  INFO -- : Updating Folder1.1.209 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:33.877103 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:34.259925 #4983]  INFO -- : Updating Folder1.1.21 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:34.186373 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:34.517296 #4983]  INFO -- : Updating Folder1.1.210 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:34.195675 #4983]  INFO -- : Updating Folder1.1.208 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:34.195182 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:34.718776 #4983]  INFO -- : Updating Folder1.1.211 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:34.450016 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:34.590671 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:34.809506 #4983]  INFO -- : Updating Folder1.1.213 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:34.631968 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:34.949729 #4983]  INFO -- : Updating Folder1.1.214 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:34.743325 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:33.997807 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:34.911712 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:34.772674 #4983]  INFO -- : Updating Folder1.1.212 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.039616 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:35.041863 #4983]  INFO -- : Updating Folder1.1.215 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.044251 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:35.229682 #4983]  INFO -- : Updating Folder1.1.219 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.044382 #4983]  INFO -- : Updating Folder1.1.216 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.072256 #4983]  INFO -- : Updating Folder1.1.217 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.077608 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:35.159705 #4983]  INFO -- : Updating Folder1.1.218 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.199759 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:35.072080 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:35.262383 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:35.347443 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:35.347951 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:35.353674 #4983]  INFO -- : Updating Folder1.1.22 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.354963 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:35.393831 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:35.441577 #4983]  INFO -- : Updating Folder1.1.226 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.420545 #4983]  INFO -- : Updating Folder1.1.220 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.420683 #4983]  INFO -- : Updating Folder1.1.222 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.420752 #4983]  INFO -- : Updating Folder1.1.223 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.420852 #4983]  INFO -- : Updating Folder1.1.224 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.441427 #4983]  INFO -- : Updating Folder1.1.225 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.420630 #4983]  INFO -- : Updating Folder1.1.221 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.492924 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:35.666729 #4983]  INFO -- : Updating Folder1.1.227 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.748498 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:35.749237 #4983]  INFO -- : Updating Folder1.1.228 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.845224 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:35.845320 #4983]  INFO -- : Updating Folder1.1.229 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.919615 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:35.946568 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:35.947182 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:35.947537 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:36.085558 #4983]  INFO -- : Updating Folder1.1.232 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:35.981306 #4983]  INFO -- : Updating Folder1.1.23 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:36.085205 #4983]  INFO -- : Updating Folder1.1.230 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:36.085350 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:36.334264 #4983]  INFO -- : Updating Folder1.1.233 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:36.085441 #4983]  INFO -- : Updating Folder1.1.231 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:36.042508 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:37.173062 #4983]  INFO -- : Updating Folder1.1.234 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:37.090398 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:37.285325 #4983]  INFO -- : Updating Folder1.1.235 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:37.104171 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:37.384512 #4983]  INFO -- : Updating Folder1.1.236 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:37.379517 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:37.498936 #4983]  INFO -- : Updating Folder1.1.237 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:37.490352 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:37.498827 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:37.586067 #4983]  INFO -- : Updating Folder1.1.239 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:37.559775 #4983]  INFO -- : Updating Folder1.1.238 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:37.617016 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:37.668191 #4983]  INFO -- : Updating Folder1.1.24 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:37.764297 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:37.764676 #4983]  INFO -- : Updating Folder1.1.240 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:37.800513 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:37.815528 #4983]  INFO -- : Updating Folder1.1.241 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:37.812226 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:37.845336 #4983]  INFO -- : Updating Folder1.1.242 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:37.887131 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:37.927658 #4983]  INFO -- : Updating Folder1.1.243 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:37.887728 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:37.924680 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:37.888854 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:38.277046 #4983]  INFO -- : Updating Folder1.1.246 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:37.955576 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:37.956207 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:38.330008 #4983]  INFO -- : Updating Folder1.1.248 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:37.957421 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:37.998693 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:38.356108 #4983]  INFO -- : Updating Folder1.1.25 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:38.041309 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:38.183325 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:38.183806 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:38.210469 #4983]  INFO -- : Updating Folder1.1.244 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:38.211896 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:38.232574 #4983]  INFO -- : Updating Folder1.1.245 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:37.955807 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:38.565771 #4983]  INFO -- : Updating Folder1.1.254 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:38.329822 #4983]  INFO -- : Updating Folder1.1.247 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:38.349483 #4983]  INFO -- : Updating Folder1.1.249 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:38.180114 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:38.709482 #4983]  INFO -- : Updating Folder1.1.255 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:38.460517 #4983]  INFO -- : Updating Folder1.1.250 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:38.484759 #4983]  INFO -- : Updating Folder1.1.252 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:38.524869 #4983]  INFO -- : Updating Folder1.1.253 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:37.957202 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:39.044073 #4983]  INFO -- : Updating Folder1.1.256 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:38.783227 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:38.915877 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:39.171479 #4983]  INFO -- : Updating Folder1.1.258 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:38.948953 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:39.313647 #4983]  INFO -- : Updating Folder1.1.259 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:39.001540 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:39.558074 #4983]  INFO -- : Updating Folder1.1.26 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:39.001986 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:39.746853 #4983]  INFO -- : Updating Folder1.1.260 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:39.024912 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:40.107009 #4983]  INFO -- : Updating Folder1.1.261 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:38.478761 #4983]  INFO -- : Updating Folder1.1.251 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:39.000394 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:40.573624 #4983]  INFO -- : Updating Folder1.1.262 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:39.000903 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:40.691468 #4983]  INFO -- : Updating Folder1.1.263 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:39.002059 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:39.801977 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:39.868474 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:40.813847 #4983]  INFO -- : Updating Folder1.1.266 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:40.048914 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:40.103855 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:40.983735 #4983]  INFO -- : Updating Folder1.1.268 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:39.098842 #4983]  INFO -- : Updating Folder1.1.257 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:40.420362 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:40.571927 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:39.557947 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:41.182017 #4983]  INFO -- : Updating Folder1.1.270 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:39.043626 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:40.785920 #4983]  INFO -- : Updating Folder1.1.265 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:40.050125 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:41.655619 #4983]  INFO -- : Updating Folder1.1.272 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:40.400927 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:41.784325 #4983]  INFO -- : Updating Folder1.1.273 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:41.173690 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:41.918538 #4983]  INFO -- : Updating Folder1.1.274 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:41.181633 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:41.943074 #4983]  INFO -- : Updating Folder1.1.275 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:41.181946 #4983]  INFO -- : Updating Folder1.1.27 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:41.237764 #4983]  INFO -- : Updating Folder1.1.271 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:41.250365 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:42.097383 #4983]  INFO -- : Updating Folder1.1.276 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:41.341295 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:41.359923 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:42.141911 #4983]  INFO -- : Updating Folder1.1.278 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:41.643511 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:42.235247 #4983]  INFO -- : Updating Folder1.1.279 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:41.165989 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:42.435207 #4983]  INFO -- : Updating Folder1.1.28 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:40.961389 #4983]  INFO -- : Updating Folder1.1.267 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:40.748146 #4983]  INFO -- : Updating Folder1.1.264 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:41.355056 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:42.122664 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:42.123937 #4983]  INFO -- : Updating Folder1.1.277 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:42.124030 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:41.654426 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:42.231272 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:41.726696 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:41.180956 #4983]  INFO -- : Updating Folder1.1.269 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:42.469859 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:42.616803 #4983]  INFO -- : Updating Folder1.1.286 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:42.480564 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:42.550109 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:42.550206 #4983]  INFO -- : Updating Folder1.1.280 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:42.551310 #4983]  INFO -- : Updating Folder1.1.281 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:42.570455 #4983]  INFO -- : Updating Folder1.1.282 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:42.588750 #4983]  INFO -- : Updating Folder1.1.283 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:42.595281 #4983]  INFO -- : Updating Folder1.1.284 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:42.600199 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:42.600299 #4983]  INFO -- : Updating Folder1.1.285 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:42.484238 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:42.655932 #4983]  INFO -- : Updating Folder1.1.287 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:42.671522 #4983]  INFO -- : Updating Folder1.1.288 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:42.703264 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:42.837360 #4983]  INFO -- : Updating Folder1.1.289 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:42.856110 #4983]  INFO -- : Updating Folder1.1.29 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:42.898873 #4983]  INFO -- : Updating Folder1.1.290 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:42.953266 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:42.974279 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:43.020461 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:43.025844 #4983]  INFO -- : Updating Folder1.1.291 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:43.041849 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:43.042646 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:43.043330 #4983]  INFO -- : Updating Folder1.1.292 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:43.043387 #4983]  INFO -- : Updating Folder1.1.293 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:43.060247 #4983]  INFO -- : Updating Folder1.1.294 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:43.060899 #4983]  INFO -- : Updating Folder1.1.295 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:43.159323 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:43.199577 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:43.209991 #4983]  INFO -- : Updating Folder1.1.296 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:43.210429 #4983]  INFO -- : Updating Folder1.1.297 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:43.244963 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:43.268032 #4983]  INFO -- : Updating Folder1.1.298 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:43.489582 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:43.489708 #4983]  INFO -- : Updating Folder1.1.299 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:43.510095 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:43.510175 #4983]  INFO -- : Updating Folder1.1.3 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:43.510249 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:43.526114 #4983]  INFO -- : Updating Folder1.1.30 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:43.565559 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:43.565690 #4983]  INFO -- : Updating Folder1.1.300 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:43.638305 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:43.638405 #4983]  INFO -- : Updating Folder1.1.301 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:43.658021 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:43.658091 #4983]  INFO -- : Updating Folder1.1.302 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:43.680436 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:43.680535 #4983]  INFO -- : Updating Folder1.1.303 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:43.713734 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:43.714259 #4983]  INFO -- : Updating Folder1.1.304 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:44.866545 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:44.866969 #4983]  INFO -- : Updating Folder1.1.305 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:44.912512 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:44.913184 #4983]  INFO -- : Updating Folder1.1.306 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:44.948246 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:44.972158 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:44.976289 #4983]  INFO -- : Updating Folder1.1.307 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:44.988555 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:44.988637 #4983]  INFO -- : Updating Folder1.1.308 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.017806 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.017899 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.040323 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.040670 #4983]  INFO -- : Updating Folder1.1.309 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.065648 #4983]  INFO -- : Updating Folder1.1.31 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.065843 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.065904 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.065991 #4983]  INFO -- : Updating Folder1.1.310 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.066077 #4983]  INFO -- : Updating Folder1.1.311 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.108716 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.129628 #4983]  INFO -- : Updating Folder1.1.312 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.131015 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.138324 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.138430 #4983]  INFO -- : Updating Folder1.1.313 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.186207 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.193367 #4983]  INFO -- : Updating Folder1.1.314 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.230933 #4983]  INFO -- : Updating Folder1.1.315 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.231061 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.231110 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.237041 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.240389 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.241405 #4983]  INFO -- : Updating Folder1.1.316 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.245016 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.263780 #4983]  INFO -- : Updating Folder1.1.317 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.297652 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.353329 #4983]  INFO -- : Updating Folder1.1.322 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.311534 #4983]  INFO -- : Updating Folder1.1.319 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.311602 #4983]  INFO -- : Updating Folder1.1.32 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.311658 #4983]  INFO -- : Updating Folder1.1.320 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.332707 #4983]  INFO -- : Updating Folder1.1.321 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.334156 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.311392 #4983]  INFO -- : Updating Folder1.1.318 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.447593 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.449244 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.476437 #4983]  INFO -- : Updating Folder1.1.323 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.495493 #4983]  INFO -- : Updating Folder1.1.324 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.495614 #4983]  INFO -- : Updating Folder1.1.325 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.535191 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.535863 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.536015 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.558334 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.584565 #4983]  INFO -- : Updating Folder1.1.329 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.563779 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.584427 #4983]  INFO -- : Updating Folder1.1.327 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.584503 #4983]  INFO -- : Updating Folder1.1.328 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.563898 #4983]  INFO -- : Updating Folder1.1.326 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.608026 #4983]  INFO -- : Updating Folder1.1.33 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:45.763617 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:45.822553 #4983]  INFO -- : Updating Folder1.1.330 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:46.144129 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:46.144899 #4983]  INFO -- : Updating Folder1.1.331 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:46.170829 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:46.171191 #4983]  INFO -- : Updating Folder1.1.332 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:46.361103 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:46.373720 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:46.377355 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:46.623252 #4983]  INFO -- : Updating Folder1.1.335 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:46.378076 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:46.481612 #4983]  INFO -- : Updating Folder1.1.334 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:46.556944 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:46.833761 #4983]  INFO -- : Updating Folder1.1.337 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:46.579455 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:46.942957 #4983]  INFO -- : Updating Folder1.1.338 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:46.672720 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:47.015339 #4983]  INFO -- : Updating Folder1.1.339 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:46.695098 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:47.076266 #4983]  INFO -- : Updating Folder1.1.34 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:46.714793 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:47.198887 #4983]  INFO -- : Updating Folder1.1.340 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:46.741837 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:47.268742 #4983]  INFO -- : Updating Folder1.1.341 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:46.384062 #4983]  INFO -- : Updating Folder1.1.333 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:46.923678 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:47.515047 #4983]  INFO -- : Updating Folder1.1.342 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:46.932245 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:46.691699 #4983]  INFO -- : Updating Folder1.1.336 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:46.707576 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:47.694264 #4983]  INFO -- : Updating Folder1.1.344 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:47.075131 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:47.183049 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:46.813773 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:47.897887 #4983]  INFO -- : Updating Folder1.1.347 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:46.901774 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:48.100068 #4983]  INFO -- : Updating Folder1.1.348 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:47.325467 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:48.111928 #4983]  INFO -- : Updating Folder1.1.349 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:47.514581 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:48.182511 #4983]  INFO -- : Updating Folder1.1.35 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:47.592476 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:48.253556 #4983]  INFO -- : Updating Folder1.1.350 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:47.600714 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:48.362137 #4983]  INFO -- : Updating Folder1.1.351 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:47.619388 #4983]  INFO -- : Updating Folder1.1.343 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:47.710835 #4983]  INFO -- : Updating Folder1.1.345 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:47.791561 #4983]  INFO -- : Updating Folder1.1.346 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:47.320028 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:48.845413 #4983]  INFO -- : Updating Folder1.1.352 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:48.009185 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:48.898051 #4983]  INFO -- : Updating Folder1.1.353 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:46.942830 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:47.614579 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:49.027727 #4983]  INFO -- : Updating Folder1.1.355 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:48.357006 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:48.480055 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:49.137780 #4983]  INFO -- : Updating Folder1.1.357 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:48.739205 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:49.174450 #4983]  INFO -- : Updating Folder1.1.358 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:47.597620 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:46.730443 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:49.082166 #4983]  INFO -- : Updating Folder1.1.356 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:49.097375 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:49.290681 #4983]  INFO -- : Updating Folder1.1.360 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:49.137097 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:48.958186 #4983]  INFO -- : Updating Folder1.1.354 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:49.239105 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:49.518376 #4983]  INFO -- : Updating Folder1.1.362 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:49.255939 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:49.610166 #4983]  INFO -- : Updating Folder1.1.363 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:49.257429 #4983]  INFO -- : Updating Folder1.1.359 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:47.420795 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:49.373538 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:49.404228 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:49.409323 #4983]  INFO -- : Updating Folder1.1.361 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:49.465868 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:50.586993 #4983]  INFO -- : Updating Folder1.1.367 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:49.495144 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:50.770345 #4983]  INFO -- : Updating Folder1.1.368 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:49.610003 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:50.867697 #4983]  INFO -- : Updating Folder1.1.369 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:49.864260 #4983]  INFO -- : Updating Folder1.1.364 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:50.083881 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.002640 #4983]  INFO -- : Updating Folder1.1.37 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:50.138337 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.072833 #4983]  INFO -- : Updating Folder1.1.370 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:50.176035 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:50.197520 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:50.383514 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.106210 #4983]  INFO -- : Updating Folder1.1.373 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:49.257144 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.132511 #4983]  INFO -- : Updating Folder1.1.374 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:49.257565 #4983]  INFO -- : Updating Folder1.1.36 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:50.854724 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.181561 #4983]  INFO -- : Updating Folder1.1.375 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:50.082871 #4983]  INFO -- : Updating Folder1.1.365 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:50.141594 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.295471 #4983]  INFO -- : Updating Folder1.1.376 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:50.178035 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.340979 #4983]  INFO -- : Updating Folder1.1.377 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:51.106136 #4983]  INFO -- : Updating Folder1.1.372 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:50.827803 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.404702 #4983]  INFO -- : Updating Folder1.1.378 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:50.947557 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.340529 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.340862 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.497779 #4983]  INFO -- : Updating Folder1.1.380 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:50.439711 #4983]  INFO -- : Updating Folder1.1.366 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:51.438757 #4983]  INFO -- : Updating Folder1.1.379 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:51.488491 #4983]  INFO -- : Updating Folder1.1.38 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:51.106053 #4983]  INFO -- : Updating Folder1.1.371 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:51.568110 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.790350 #4983]  INFO -- : Updating Folder1.1.381 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:51.568773 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.832510 #4983]  INFO -- : Updating Folder1.1.382 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:51.622111 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.708390 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.714554 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.875447 #4983]  INFO -- : Updating Folder1.1.385 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:51.714871 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.934603 #4983]  INFO -- : Updating Folder1.1.386 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:51.574663 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:51.875286 #4983]  INFO -- : Updating Folder1.1.383 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:51.875373 #4983]  INFO -- : Updating Folder1.1.384 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:51.715816 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:52.102212 #4983]  INFO -- : Updating Folder1.1.388 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:51.631765 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:52.216396 #4983]  INFO -- : Updating Folder1.1.389 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:51.962628 #4983]  INFO -- : Updating Folder1.1.387 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:53.283766 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:53.283914 #4983]  INFO -- : Updating Folder1.1.39 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:53.377376 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:53.377465 #4983]  INFO -- : Updating Folder1.1.390 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:53.451317 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:53.451408 #4983]  INFO -- : Updating Folder1.1.391 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:53.512249 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:53.512361 #4983]  INFO -- : Updating Folder1.1.392 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:53.633046 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:53.633183 #4983]  INFO -- : Updating Folder1.1.393 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:53.700978 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:53.701511 #4983]  INFO -- : Updating Folder1.1.394 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:53.834819 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:53.835061 #4983]  INFO -- : Updating Folder1.1.395 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:53.900476 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:53.901030 #4983]  INFO -- : Updating Folder1.1.396 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.007436 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.010087 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.027662 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.166233 #4983]  INFO -- : Updating Folder1.1.399 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.031736 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.248983 #4983]  INFO -- : Updating Folder1.1.4 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.055070 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.329291 #4983]  INFO -- : Updating Folder1.1.40 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.093767 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.094789 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.094857 #4983]  INFO -- : Updating Folder1.1.397 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.100513 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.560080 #4983]  INFO -- : Updating Folder1.1.402 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.101722 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.118768 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.632721 #4983]  INFO -- : Updating Folder1.1.404 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.121559 #4983]  INFO -- : Updating Folder1.1.398 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.050048 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.720824 #4983]  INFO -- : Updating Folder1.1.405 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.247399 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.770281 #4983]  INFO -- : Updating Folder1.1.406 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.064835 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.426979 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.428359 #4983]  INFO -- : Updating Folder1.1.400 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.459726 #4983]  INFO -- : Updating Folder1.1.401 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.103629 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.630200 #4983]  INFO -- : Updating Folder1.1.403 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.632403 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.996682 #4983]  INFO -- : Updating Folder1.1.41 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.145811 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:55.029978 #4983]  INFO -- : Updating Folder1.1.410 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.248569 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:55.090449 #4983]  INFO -- : Updating Folder1.1.411 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.094617 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:55.182207 #4983]  INFO -- : Updating Folder1.1.412 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.863903 #4983]  INFO -- : Updating Folder1.1.407 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.949008 #4983]  INFO -- : Updating Folder1.1.409 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.675570 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:56.063719 #4983]  INFO -- : Updating Folder1.1.413 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:54.769229 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.864070 #4983]  INFO -- : Updating Folder1.1.408 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:55.837351 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:54.862867 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:56.537260 #4983]  INFO -- : Updating Folder1.1.416 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:56.325974 #4983]  INFO -- : Updating Folder1.1.414 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:56.536335 #4983]  INFO -- : Updating Folder1.1.415 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:56.912659 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:57.222513 #4983]  INFO -- : Updating Folder1.1.417 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:56.913355 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:57.422197 #4983]  INFO -- : Updating Folder1.1.418 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:56.967936 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:57.513032 #4983]  INFO -- : Updating Folder1.1.419 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:57.162409 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:57.578147 #4983]  INFO -- : Updating Folder1.1.42 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:57.168866 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:57.624719 #4983]  INFO -- : Updating Folder1.1.420 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:57.270927 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:57.658399 #4983]  INFO -- : Updating Folder1.1.421 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:57.278483 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:57.716069 #4983]  INFO -- : Updating Folder1.1.422 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:57.421381 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:57.025634 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:57.738934 #4983]  INFO -- : Updating Folder1.1.424 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:57.166922 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:57.769425 #4983]  INFO -- : Updating Folder1.1.425 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:56.966159 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:57.845137 #4983]  INFO -- : Updating Folder1.1.426 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:57.279998 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:57.738791 #4983]  INFO -- : Updating Folder1.1.423 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:57.512894 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:58.587905 #4983]  INFO -- : Updating Folder1.1.428 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:57.272913 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:58.819687 #4983]  INFO -- : Updating Folder1.1.429 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:57.883905 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:58.967743 #4983]  INFO -- : Updating Folder1.1.43 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:57.896434 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.110751 #4983]  INFO -- : Updating Folder1.1.430 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:58.015061 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.171910 #4983]  INFO -- : Updating Folder1.1.431 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:58.203886 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.259730 #4983]  INFO -- : Updating Folder1.1.432 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:58.419550 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.305632 #4983]  INFO -- : Updating Folder1.1.433 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:57.421715 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:57.894377 #4983]  INFO -- : Updating Folder1.1.427 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:58.013198 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:58.193127 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:58.262445 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.528667 #4983]  INFO -- : Updating Folder1.1.437 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:58.435104 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:58.717758 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.560257 #4983]  INFO -- : Updating Folder1.1.439 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:59.337315 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.418845 #4983]  INFO -- : Updating Folder1.1.434 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:59.504639 #4983]  INFO -- : Updating Folder1.1.435 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:59.527735 #4983]  INFO -- : Updating Folder1.1.436 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:59.305204 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.559061 #4983]  INFO -- : Updating Folder1.1.438 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:59.381931 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.703312 #4983]  INFO -- : Updating Folder1.1.441 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:59.595529 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.595645 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.659364 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.659483 #4983]  INFO -- : Updating Folder1.1.440 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:59.659637 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.594371 #4983]  INFO -- : Updating Folder1.1.44 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:59.725660 #4983]  INFO -- : Updating Folder1.1.442 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:59.726907 #4983]  INFO -- : Updating Folder1.1.443 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:59.726972 #4983]  INFO -- : Updating Folder1.1.444 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:59.752590 #4983]  INFO -- : Updating Folder1.1.445 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:59.778075 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.786514 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.845314 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.882497 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.882644 #4983]  INFO -- : Updating Folder1.1.446 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:59.882697 #4983]  INFO -- : Updating Folder1.1.447 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:59.882764 #4983]  INFO -- : Updating Folder1.1.448 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:59.882837 #4983]  INFO -- : Updating Folder1.1.449 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T14:59:59.921500 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.921624 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.921670 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.922235 #4983]  INFO -- : Updated!
+I, [2015-02-22T14:59:59.922319 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:00.025491 #4983]  INFO -- : Updating Folder1.1.45 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.052114 #4983]  INFO -- : Updating Folder1.1.450 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.054828 #4983]  INFO -- : Updating Folder1.1.451 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.055805 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:00.081943 #4983]  INFO -- : Updating Folder1.1.452 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.121782 #4983]  INFO -- : Updating Folder1.1.453 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.247036 #4983]  INFO -- : Updating Folder1.1.454 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.359889 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:00.384194 #4983]  INFO -- : Updating Folder1.1.455 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.442105 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:00.460497 #4983]  INFO -- : Updating Folder1.1.456 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.526931 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:00.561369 #4983]  INFO -- : Updating Folder1.1.457 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.591558 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:00.596617 #4983]  INFO -- : Updating Folder1.1.458 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.596708 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:00.612786 #4983]  INFO -- : Updating Folder1.1.459 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.629275 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:00.634810 #4983]  INFO -- : Updating Folder1.1.46 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.635409 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:00.669731 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:00.695753 #4983]  INFO -- : Updating Folder1.1.460 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.697391 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:00.718839 #4983]  INFO -- : Updating Folder1.1.461 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.754259 #4983]  INFO -- : Updating Folder1.1.462 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.816255 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:00.816568 #4983]  INFO -- : Updating Folder1.1.463 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.868483 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:00.868612 #4983]  INFO -- : Updating Folder1.1.464 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:00.918169 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:00.918264 #4983]  INFO -- : Updating Folder1.1.465 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:01.082448 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:01.099175 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:01.170596 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:01.384943 #4983]  INFO -- : Updating Folder1.1.468 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:01.172307 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:01.516164 #4983]  INFO -- : Updating Folder1.1.469 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:01.182898 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:01.285468 #4983]  INFO -- : Updating Folder1.1.467 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:01.285925 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:01.381370 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:01.710067 #4983]  INFO -- : Updating Folder1.1.471 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:01.381467 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:01.768218 #4983]  INFO -- : Updating Folder1.1.472 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:01.384707 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:01.952017 #4983]  INFO -- : Updating Folder1.1.473 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:01.439710 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:01.579017 #4983]  INFO -- : Updating Folder1.1.47 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:01.707950 #4983]  INFO -- : Updating Folder1.1.470 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:01.382585 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:01.172578 #4983]  INFO -- : Updating Folder1.1.466 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:01.183129 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:02.487054 #4983]  INFO -- : Updating Folder1.1.476 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:01.999157 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:02.800854 #4983]  INFO -- : Updating Folder1.1.477 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:02.119018 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:03.040273 #4983]  INFO -- : Updating Folder1.1.478 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:02.314752 #4983]  INFO -- : Updating Folder1.1.475 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:02.342731 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:03.436130 #4983]  INFO -- : Updating Folder1.1.479 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:02.059207 #4983]  INFO -- : Updating Folder1.1.474 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:02.636908 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:03.597764 #4983]  INFO -- : Updating Folder1.1.48 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:02.770184 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:03.751514 #4983]  INFO -- : Updating Folder1.1.480 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:02.775286 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:02.124354 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:03.949936 #4983]  INFO -- : Updating Folder1.1.482 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:02.879347 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:02.994808 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:04.040122 #4983]  INFO -- : Updating Folder1.1.484 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:02.318096 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:04.135083 #4983]  INFO -- : Updating Folder1.1.485 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:02.486413 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:03.596728 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:02.639432 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:03.708448 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:04.222217 #4983]  INFO -- : Updating Folder1.1.489 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:02.800443 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:04.296464 #4983]  INFO -- : Updating Folder1.1.49 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:03.836780 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:03.908342 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:02.875664 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:04.033331 #4983]  INFO -- : Updating Folder1.1.483 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:03.096245 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:03.503815 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:04.201183 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:04.206405 #4983]  INFO -- : Updating Folder1.1.486 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.214748 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:04.420577 #4983]  INFO -- : Updating Folder1.1.496 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.215105 #4983]  INFO -- : Updating Folder1.1.487 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:03.829857 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:03.893699 #4983]  INFO -- : Updating Folder1.1.481 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.354787 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:04.379296 #4983]  INFO -- : Updating Folder1.1.490 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.380253 #4983]  INFO -- : Updating Folder1.1.491 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.380309 #4983]  INFO -- : Updating Folder1.1.492 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.398807 #4983]  INFO -- : Updating Folder1.1.493 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.398900 #4983]  INFO -- : Updating Folder1.1.494 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.398956 #4983]  INFO -- : Updating Folder1.1.495 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.221389 #4983]  INFO -- : Updating Folder1.1.488 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.468880 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:04.500097 #4983]  INFO -- : Updating Folder1.1.497 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.501670 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:04.519185 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:04.524823 #4983]  INFO -- : Updating Folder1.1.498 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.662081 #4983]  INFO -- : Updating Folder1.1.499 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.699524 #4983]  INFO -- : Updating Folder1.1.5 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.706279 #4983]  INFO -- : Updating Folder1.1.50 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.848369 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:04.848444 #4983]  INFO -- : Updating Folder1.1.51 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.881617 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:04.886472 #4983]  INFO -- : Updating Folder1.1.52 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:04.944410 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:04.944485 #4983]  INFO -- : Updating Folder1.1.53 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:05.191358 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:05.191450 #4983]  INFO -- : Updating Folder1.1.54 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:05.360860 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:05.360970 #4983]  INFO -- : Updating Folder1.1.55 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:05.370649 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:05.395338 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:05.411473 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:05.551287 #4983]  INFO -- : Updating Folder1.1.56 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:05.572146 #4983]  INFO -- : Updating Folder1.1.57 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:05.634762 #4983]  INFO -- : Updating Folder1.1.58 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:05.657533 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:05.688740 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:05.704142 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:05.757437 #4983]  INFO -- : Updating Folder1.1.59 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:05.759087 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:05.760274 #4983]  INFO -- : Updating Folder1.1.6 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:05.760331 #4983]  INFO -- : Updating Folder1.1.60 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:05.776479 #4983]  INFO -- : Updating Folder1.1.61 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:05.803896 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:05.841505 #4983]  INFO -- : Updating Folder1.1.62 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:05.905106 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:05.905179 #4983]  INFO -- : Updating Folder1.1.63 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:05.929228 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:05.929304 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:05.929486 #4983]  INFO -- : Updating Folder1.1.64 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:05.929538 #4983]  INFO -- : Updating Folder1.1.65 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:05.999545 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:05.999625 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:05.999687 #4983]  INFO -- : Updating Folder1.1.66 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:05.999759 #4983]  INFO -- : Updating Folder1.1.67 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:06.064400 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:06.071008 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:06.137326 #4983]  INFO -- : Updating Folder1.1.69 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:06.072567 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:06.172030 #4983]  INFO -- : Updating Folder1.1.7 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:06.103483 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:06.105794 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:06.105922 #4983]  INFO -- : Updating Folder1.1.68 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:06.123606 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:06.125648 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:06.136645 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:06.073772 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:06.158497 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:06.076007 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:06.191551 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:06.215908 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:06.215982 #4983]  INFO -- : Updating Folder1.1.70 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:06.216036 #4983]  INFO -- : Updating Folder1.1.71 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:06.237041 #4983]  INFO -- : Updating Folder1.1.72 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:06.239340 #4983]  INFO -- : Updating Folder1.1.73 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:06.239532 #4983]  INFO -- : Updating Folder1.1.74 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:06.239595 #4983]  INFO -- : Updating Folder1.1.75 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:06.239659 #4983]  INFO -- : Updating Folder1.1.76 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:06.239722 #4983]  INFO -- : Updating Folder1.1.77 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:06.239784 #4983]  INFO -- : Updating Folder1.1.78 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:06.239848 #4983]  INFO -- : Updating Folder1.1.79 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:06.643627 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:06.701538 #4983]  INFO -- : Updating Folder1.1.8 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:06.933949 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:06.954341 #4983]  INFO -- : Updating Folder1.1.80 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.018277 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.038937 #4983]  INFO -- : Updating Folder1.1.81 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.114003 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.114091 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.121517 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.121582 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.139320 #4983]  INFO -- : Updating Folder1.1.85 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.121621 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.122559 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.122610 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.122671 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.137782 #4983]  INFO -- : Updating Folder1.1.83 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.138568 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.139275 #4983]  INFO -- : Updating Folder1.1.84 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.122228 #4983]  INFO -- : Updating Folder1.1.82 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.154437 #4983]  INFO -- : Updating Folder1.1.86 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.156274 #4983]  INFO -- : Updating Folder1.1.87 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.182676 #4983]  INFO -- : Updating Folder1.1.88 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.182759 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.183999 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.184129 #4983]  INFO -- : Updating Folder1.1.89 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.201130 #4983]  INFO -- : Updating Folder1.1.9 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.285113 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.332143 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.502505 #4983]  INFO -- : Updating Folder1.1.93 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.455314 #4983]  INFO -- : Updating Folder1.1.91 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.456169 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.502316 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.502418 #4983]  INFO -- : Updating Folder1.1.92 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.405305 #4983]  INFO -- : Updating Folder1.1.90 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.539211 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.547812 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.548895 #4983]  INFO -- : Updating Folder1.1.94 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.549504 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.549559 #4983]  INFO -- : Updating Folder1.1.95 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.595029 #4983]  INFO -- : Updating Folder1.1.96 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.638365 #4983]  INFO -- : Updating Folder1.1.97 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.642143 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.786126 #4983]  INFO -- : Updating Folder1.1.99 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.658697 #4983]  INFO -- : Updating Folder1.1.98 with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:07.642199 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.843835 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.905271 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.905661 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.906045 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.906413 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.911484 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.911611 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:07.992612 #4983]  INFO -- : Updating NetDocuments REST API with file path as WorkspaceResetTest/Folder1/Folder1.1
+I, [2015-02-22T15:00:08.003912 #4983]  INFO -- : Updating 023456-report with file path as WorkspaceResetTest/Folder1/Folder1.1/Folder1.1.100
+I, [2015-02-22T15:00:08.004048 #4983]  INFO -- : Updating 2447526272-report (2) with file path as WorkspaceResetTest/Folder1/Folder1.1/Folder1.1.100
+I, [2015-02-22T15:00:08.004110 #4983]  INFO -- : Updating LOE tool v23 with file path as WorkspaceResetTest/Folder1/Folder1.1/Folder1.1.100
+I, [2015-02-22T15:00:08.169878 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.289693 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.343412 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.410125 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.410494 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.430784 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.454275 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.547247 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.548147 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.549259 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.556732 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.556814 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.602237 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.734203 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.762282 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.782851 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.803894 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:08.977648 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:09.015312 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:09.015400 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:09.022270 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:09.039803 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:09.072235 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:09.142719 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:09.248859 #4983]  INFO -- : Updated!
+I, [2015-02-22T15:00:09.424523 #4983]  INFO -- : Updated!

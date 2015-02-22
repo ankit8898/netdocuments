@@ -75,10 +75,10 @@ require_relative 'netdocuments'
 #a = Time.now
 #sleep 5
 #b = Time.now
+
 a = Time.now
 aa = Netdocuments::Cabinet.new(id: 'NG-2QORXCL4')
 e = aa.find_folder_tree_and_update_file_path
-
 #aa = Netdocuments::Folder.new({id: '4818-0246-2498'}).folder_content
 
 #r = ":Q5:5:y:g:y:^F150220161118187.nev"[1..-1].gsub(':','/')

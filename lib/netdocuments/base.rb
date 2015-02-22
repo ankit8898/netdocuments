@@ -13,21 +13,18 @@ module Netdocuments
 
 
     def post(opts = {})
-      response = HTTParty.post(@end_point + opts[:url],
-                               :body => opts[:body],
-                               :headers => @headers.merge(opts[:headers] || {}))
-      response
+      HTTParty.post(@end_point + opts[:url],
+                    :body => opts[:body],
+                    :headers => @headers.merge(opts[:headers] || {}))
     end
 
 
     def get(opts = {})
-      response = HTTParty.get(@end_point + opts[:url],query: opts[:query],headers: @headers.merge(opts[:headers] || {}))
-      response
+      HTTParty.get(@end_point + opts[:url],query: opts[:query],headers: @headers.merge(opts[:headers] || {}))
     end
 
     def put(opts = {})
-      response = HTTParty.put(@end_point + opts[:url],body: opts[:query],headers: @headers.merge(opts[:headers] || {}))
-      response
+      HTTParty.put(@end_point + opts[:url],body: opts[:query],headers: @headers.merge(opts[:headers] || {}))
     end
   end
 end
