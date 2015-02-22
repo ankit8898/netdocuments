@@ -76,7 +76,8 @@ require_relative 'netdocuments'
 #sleep 5
 #b = Time.now
 a = Time.now
-aa = Netdocuments::Cabinet.new(id: 'NG-2QORXCL4').find_folder_tree_and_update_file_path
+aa = Netdocuments::Cabinet.new(id: 'NG-2QORXCL4')
+e = aa.find_folder_tree_and_update_file_path
 
 #aa = Netdocuments::Folder.new({id: '4818-0246-2498'}).folder_content
 
@@ -86,5 +87,5 @@ b = Time.now
 
 
 ap "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
-ap "Total time taken: #{TimeDifference.between(a,b).in_minutes} minutes--#{aa}"
+ap "Total time taken: #{TimeDifference.between(a,b).in_minutes} minutes--#{e}"
 ap "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"

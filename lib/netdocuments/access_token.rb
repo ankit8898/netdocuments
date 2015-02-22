@@ -7,7 +7,7 @@ module Netdocuments
       @grant_type = 'refresh_token'
       @url = 'https://api.vault.netvoyage.com/v1/OAuth'
       @refresh_token = '+BfZ+k7QspKVl+8Q1hSK+88x037Qwb6HkHCn3KNkrBeDdFXsG1AkGuPvhCaFUIkQu8Z/2fIanQBf4l7SdmuCiA=='
-      @client_secret = 'QVAtTUFEUkxCTTM6YVFjc09FclRJYURuWlhaVndnY1N4clBXSUczTk9vYzgxVWxGV2FDNVRPV09rZVNi'
+      @client_secret = 'VAtTUFEUkxCTTM6YVFjc09FclRJYURuWlhaVndnY1N4clBXSUczTk9vYzgxVWxGV2FDNVRPV09rZVNi'
     end
 
     #queen

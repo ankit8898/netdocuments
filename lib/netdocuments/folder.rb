@@ -21,8 +21,13 @@ module Netdocuments
     end
 
     def folder_content
-      response = get(url: "/v1/Folder/#{@id}",query: {'$select' => "standardAttributes"})
-      response["ndList"]["standardList"].nil? ? [] : [response["ndList"]["standardList"]["ndProfile.DocumentStat"]].flatten
+      begin
+        response = get(url: "/v1/Folder/#{id}",query: {'$select' => "standardAttributes"})
+        response["ndList"]["standardList"].nil? ? [] : [response["ndList"]["standardList"]["ndProfile.DocumentStat"]].flatten
+      rescue Exception => e
+        ap "----------#{id}-----#{e.message}"
+      end
+
     end
 
 
@@ -43,9 +48,12 @@ module Netdocuments
       ids = [{id: @id,parent: "WorkspaceResetTest/#{name}"}]
       loop do
         r =  ids.collect do |id|
-          folder_extraction(id)
+          ty = folder_extraction(id)
+          ap ty
+          ty
         end.flatten!
         nodes << r
+        ap nodes
         folders = r.select {|i| i.extension == 'ndfld'}
         ids = folders.collect {|o| {id: o.id,parent: "#{o.parent}/#{o.name}"}}
         break if ids.count == 0
