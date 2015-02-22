@@ -27,6 +27,7 @@ module Netdocuments
         response["ndList"]["standardList"].nil? ? [] : [response["ndList"]["standardList"]["ndProfile.DocumentStat"]].flatten
       rescue Exception => e
         $logger.error "----------#{id}-----#{e.message}"
+        []
       end
 
     end
