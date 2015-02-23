@@ -1,4 +1,4 @@
-## Ruby Netdocuments
+## Netdocuments
 
 
 A Ruby wrapper for accessing [Netdocuments](https://www.netdocuments.com) api.
