@@ -1,30 +1,37 @@
 module Netdocuments
   class Base
 
-    attr_reader :access_token,:end_point,:cabinet_id
-    attr_accessor :headers
-
-    def initialize(opts = {})
-      @access_token =  Netdocuments::AccessToken.get.access_token
-      @end_point   =  'https://api.vault.netvoyage.com'
-      @cabinet_id  = 'CA-EKOBPSMJ'
-      @headers     = {'Authorization' => "Bearer #{access_token}"}
-    end
-
+    END_POINT = 'https://api.vault.netvoyage.com'
 
     def post(opts = {})
-      HTTParty.post(@end_point + opts[:url],
+      HTTParty.post(END_POINT + opts[:url],
                     :body => opts[:body],
-                    :headers => @headers.merge(opts[:headers] || {}))
+                    :headers => opts[:headers])
     end
 
 
     def get(opts = {})
-      HTTParty.get(@end_point + opts[:url],query: opts[:query],headers: @headers.merge(opts[:headers] || {}))
+      HTTParty.get(END_POINT + opts[:url],
+                   query: opts[:query],
+                   headers: opts[:headers])
     end
 
     def put(opts = {})
-      HTTParty.put(@end_point + opts[:url],body: opts[:query],headers: @headers.merge(opts[:headers] || {}))
+      HTTParty.put(END_POINT + opts[:url],
+                   body: opts[:query],
+                   headers: opts[:headers])
     end
+
+
+    def validate_config!
+      $logger.info "Token is: #{@client.access_token.valid? ? 'valid' : 'invalid'} ..Last generated: #{@client.access_token.last_generated_minutes_ago} minutes ago. "
+      if @client.access_token.valid?
+        true
+      else
+        $logger.info "Fetching new token..."
+        @client.get_token!
+      end
+    end
+
   end
 end

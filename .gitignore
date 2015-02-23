@@ -1,2 +1,3 @@
 netdocuments.log
-log/*.log
+log/netdocuments.log
+examples/using_client.rb
