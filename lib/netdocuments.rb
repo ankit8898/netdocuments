@@ -1,6 +1,5 @@
 require 'json'
 require 'httparty'
-require 'awesome_print'
 require 'time_difference'
 require 'parallel'
 require 'logger'
@@ -14,7 +13,7 @@ require_relative 'netdocuments/configuration'
 require_relative 'netdocuments/client'
 require_relative 'netdocuments/access_token_master'
 
-$logger = Logger.new("log/netdocuments.log")
+#$logger = Logger.new("/var/log/netdocuments.log")
 
 
 

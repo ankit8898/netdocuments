@@ -16,7 +16,7 @@ module Netdocuments
       Parallel.map(folders,in_threads: 50) do |folder|
         subfolders = folder.subfolders
         subfolders_count = subfolders.count #folder.subfolders.flatten.count
-        $logger.info "Collected: #{subfolders_count}"
+        #$logger.info "Collected: #{subfolders_count}"
         Parallel.map(subfolders,in_threads: 75){|node| node.update }
       end
       subfolders_count
@@ -27,7 +27,7 @@ module Netdocuments
     end
 
     def folders
-      $logger.info "Fetching folders..."
+      # $logger.info "Fetching folders..."
       response = get(url: "/v1/Cabinet/#{@id}/folders",
                      query: {'$select' => "standardAttributes"},
                      headers: @headers)

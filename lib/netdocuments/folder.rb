@@ -40,8 +40,8 @@ module Netdocuments
                        headers: @headers)
         response["ndList"]["standardList"].nil? ? [] : [response["ndList"]["standardList"]["ndProfile.DocumentStat"]].flatten
       rescue Exception => e
-        $logger.error "======== #{id} ======== #{e.message}"
-        $logger.error e.backtrace.join("\n")
+        #$logger.error "======== #{id} ======== #{e.message}"
+        #$logger.error e.backtrace.join("\n")
         []
       end
 
@@ -61,7 +61,7 @@ module Netdocuments
 
 
     def subfolders
-      $logger.info "Starting subfolder collection for: #{name}"
+      #      $logger.info "Starting subfolder collection for: #{name}"
       nodes = []
       ids = [{id: @id,parent: "WorkspaceResetTest/#{name}"}]
       loop do
