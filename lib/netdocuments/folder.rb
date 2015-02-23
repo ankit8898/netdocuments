@@ -1,7 +1,7 @@
 module Netdocuments
   class Folder < Base
 
-    attr_reader :id,:name,:query,:parent
+    attr_reader :id,:name,:query,:parent,:cabinet_id
 
     def initialize(opts = {})
       super
@@ -9,8 +9,14 @@ module Netdocuments
       @name   = opts[:name] if opts[:name]
       @query  = opts[:query] if opts[:query]
       @parent = opts[:parent] if opts[:parent]
+
     end
 
+
+    def cabinet_id
+      #'v'
+      Netdocuments.configuration.cabinet_id
+    end
 
     def create
       post(url: '/v1/Folder',
