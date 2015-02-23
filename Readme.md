@@ -11,7 +11,7 @@ Installation
 ------
 
 
-    gem install ruby_netdocuments
+    gem install netdocuments
 
 
 Usage Examples
