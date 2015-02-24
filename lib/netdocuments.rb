@@ -13,10 +13,6 @@ require_relative 'netdocuments/configuration'
 require_relative 'netdocuments/client'
 require_relative 'netdocuments/access_token_master'
 
-#$logger = Logger.new("/var/log/netdocuments.log")
-
-
-
 module Netdocuments
 
   class << self
@@ -24,10 +20,12 @@ module Netdocuments
   end
 
   def self.configuration
-    Configuration.new
+    @configuration ||= Configuration.new
   end
 
   def self.configure
     yield(configuration)
   end
 end
+
+$logger = Logger.new(Netdocuments.configuration.log_path)

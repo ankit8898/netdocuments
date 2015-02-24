@@ -17,15 +17,35 @@ Installation
 Usage Examples
 ------
 
+Setup the configs
+
 ```ruby
 
-client = Netdocuments::Client.new(client_secret: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
-                                  refresh_token: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
+Netdocuments.configure do |config|
+  config.client_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+  config.refresh_token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+  config.log_path      = '/path/you/want' #defaults to current_path/log/netdocuments.log
+end
 
+```
 
+Initiate the client instance
+
+```ruby
+
+client = Netdocuments::Client.new
+
+```
+
+Fetch the token, it regenerates after 30 mins
+
+```ruby
 #Fetch the token
 client.get_token
 
+```
+
+```ruby
 # Cabinet
 # ==================================================
 cabinet = Netdocuments::Cabinet.new(client,id: 'NG-2QORXCL4')
