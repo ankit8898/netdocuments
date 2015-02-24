@@ -2,9 +2,9 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = 'netdocuments'
-  s.version     = '0.0.2'
+  s.version     = '0.0.3'
   s.licenses    = ['MIT']
-  s.summary     = "Ruby wrapper for Netdocuments API"
+  s.summary     = "Ruby wrapper for Netdocuments REST API"
   s.description = "A ruby wrapper to access the Netdocuments Rest API"
   s.authors     = ["ankit8898"]
   s.email       = 'ankit.gupta8898@gmail.com'
