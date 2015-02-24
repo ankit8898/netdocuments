@@ -40,7 +40,7 @@ module Netdocuments
                        headers: @headers)
         response["ndList"]["standardList"].nil? ? [] : [response["ndList"]["standardList"]["ndProfile.DocumentStat"]].flatten
       rescue Exception => e
-        $logger.error "======== #{id} ======== #{e.message}"
+        $logger.error "********* #{id} ********* #{e.message}"
         $logger.error e.backtrace.join("\n")
         []
       end
@@ -49,7 +49,7 @@ module Netdocuments
 
 
     def folder_extraction(opts = {})
-      contents = Netdocuments::Folder.new(@client, {id: opts[:id]}).folder_content
+      contents = Netdocuments::Folder.new(@client, {id: opts[:id]}).folder_content.compact
       col = contents.collect do |folder|
         obj = Netdocuments::Node.new(@client,name: folder['name'],
                                      id: folder['id'],
@@ -63,7 +63,7 @@ module Netdocuments
     def subfolders
       $logger.info "Starting subfolder collection for: #{name}"
       nodes = []
-      ids = [{id: @id,parent: "WorkspaceResetTest/#{name}"}]
+      ids = [{id: @id, parent: "WorkspaceResetTest/#{name}"}]
       loop do
         sleep 0.5
         r =  ids.collect do |id|
