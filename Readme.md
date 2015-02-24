@@ -1,4 +1,4 @@
-## Ruby Netdocuments
+## Netdocuments
 
 
 A Ruby wrapper for accessing [Netdocuments](https://www.netdocuments.com) api.
@@ -11,7 +11,7 @@ Installation
 ------
 
 
-    gem install ruby_netdocuments
+    gem install netdocuments
 
 
 Usage Examples
