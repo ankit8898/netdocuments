@@ -23,8 +23,8 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://rubygems.org/gems/netdocuments'
   s.add_development_dependency 'rspec','~> 3.2', '>= 3.2.0'
   s.add_development_dependency 'rspec-collection_matchers', '~> 1.1', '>= 1.1.2'
-  s.add_development_dependency 'httparty','~> 0'
-  s.add_development_dependency 'time_difference','~> 0'
-  s.add_development_dependency 'parallel','~> 0'
+  s.add_runtime_dependency 'httparty','~> 0'
+  s.add_runtime_dependency 'time_difference','~> 0'
+  s.add_runtime_dependency 'parallel','~> 0'
   s.post_install_message = "Thanks for installing!"
 end

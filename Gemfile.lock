@@ -1,3 +1,11 @@
+PATH
+  remote: .
+  specs:
+    netdocuments (0.0.3)
+      httparty
+      parallel
+      time_difference
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -7,7 +15,6 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
-    awesome_print (1.6.1)
     diff-lcs (1.2.5)
     httparty (0.13.3)
       json (~> 1.8)
@@ -21,15 +28,17 @@ GEM
       rspec-core (~> 3.2.0)
       rspec-expectations (~> 3.2.0)
       rspec-mocks (~> 3.2.0)
-    rspec-core (3.2.0)
+    rspec-collection_matchers (1.1.2)
+      rspec-expectations (>= 2.99.0.beta1)
+    rspec-core (3.2.1)
       rspec-support (~> 3.2.0)
     rspec-expectations (3.2.0)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.2.0)
-    rspec-mocks (3.2.0)
+    rspec-mocks (3.2.1)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.2.0)
-    rspec-support (3.2.1)
+    rspec-support (3.2.2)
     thread_safe (0.3.4)
     time_difference (0.3.2)
       activesupport
@@ -40,8 +49,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  awesome_print
-  httparty
-  parallel
-  rspec
-  time_difference
+  netdocuments!
+  rspec (~> 3.2, >= 3.2.0)
+  rspec-collection_matchers (~> 1.1, >= 1.1.2)
