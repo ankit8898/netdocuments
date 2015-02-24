@@ -14,7 +14,7 @@ module Netdocuments
     end
 
     def update
-      #      $logger.info "Updating #{name} with file path as #{parent}"
+      $logger.info "Updating #{name} with file path as #{parent}"
       if extension == 'ndfld'
         q1  = {'customAttributes' => [{"id" => "48","value" => Netdocuments::PathFormatter.new(parent).format}]}
         Netdocuments::Folder.new(@client,id: id).update_info({query: q1.to_json})

@@ -15,8 +15,8 @@ module Netdocuments
       subfolders_count = 0
       Parallel.map(folders,in_threads: 50) do |folder|
         subfolders = folder.subfolders
-        subfolders_count = subfolders.count #folder.subfolders.flatten.count
-        $logger.info "Collected: #{subfolders_count}"
+        $logger.info "Collected: #{subfolders.count}"
+        subfolders_count += subfolders.count #folder.subfolders.flatten.count
         Parallel.map(subfolders,in_threads: 75){|node| node.update }
       end
       subfolders_count
