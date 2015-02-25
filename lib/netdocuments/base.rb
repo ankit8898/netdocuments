@@ -33,5 +33,9 @@ module Netdocuments
       end
     end
 
+
+    def logger
+      Logger.new(Netdocuments.configuration.log_path)
+    end
   end
 end
