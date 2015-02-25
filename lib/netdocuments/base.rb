@@ -28,14 +28,9 @@ module Netdocuments
       if @client.access_token.valid?
         true
       else
-        logger.info "Fetching new token..."
+        Netdocuments.logger.info "Fetching new token..."
         @client.get_token!
       end
-    end
-
-
-    def logger
-      Logger.new(Netdocuments.configuration.log_path)
     end
   end
 end

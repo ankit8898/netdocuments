@@ -12,6 +12,7 @@ require_relative 'netdocuments/path_formatter'
 require_relative 'netdocuments/configuration'
 require_relative 'netdocuments/client'
 require_relative 'netdocuments/access_token_master'
+require_relative 'netdocuments/logger'
 
 module Netdocuments
 
