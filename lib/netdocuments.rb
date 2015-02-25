@@ -27,5 +27,3 @@ module Netdocuments
     yield(configuration)
   end
 end
-
-$logger = Logger.new(Netdocuments.configuration.log_path)
