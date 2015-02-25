@@ -54,7 +54,8 @@ module Netdocuments
         obj = Netdocuments::Node.new(@client,name: folder['name'],
                                      id: folder['id'],
                                      extension: folder['extension'],
-                                     parent: opts[:parent])
+                                     parent: opts[:parent],
+                                     folder_path: "#{opts[:parent]}/#{folder['name']}")
         obj
       end
     end

@@ -6,8 +6,8 @@ module Netdocuments
     def initialize
       log_dir = create_log_dir
       @cabinet_id = 'abc'
-      @client_secret = 'xxxxx'
-      @refresh_token = '1291271823781273712'
+      @client_secret = '1291271823781273712129127182378127371212912718237812737121291271823781273712'
+      @refresh_token = '1291271823781273712129127182378127371212912718237812737121291271823781273712'
       @log_path = "#{log_dir}/netdocuments.log"
       @folder_path_id = '48'
     end

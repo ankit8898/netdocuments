@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    netdocuments (0.0.5)
+    netdocuments (0.0.6)
       httparty (~> 0)
       parallel (~> 0)
       time_difference (~> 0)
