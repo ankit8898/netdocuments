@@ -66,7 +66,6 @@ module Netdocuments
       nodes = []
       ids = [{id: @id, parent: "WorkspaceResetTest/#{name}"}]
       loop do
-        sleep 0.5
         r =  ids.collect do |id|
           folder_extraction(id)
         end.flatten!
