@@ -29,7 +29,7 @@ module Netdocuments
         true
       else
         Netdocuments.logger.info "Fetching new token..."
-        @client.get_token!
+        @client.get_token
       end
     end
   end
