@@ -23,6 +23,10 @@ module Netdocuments
     end
 
 
+    def delete(opts = {})
+    end
+
+
     def validate_config!
       #logger.info "Token is: #{@client.access_token.valid? ? 'valid' : 'invalid'} ..Last generated: #{@client.access_token.last_generated_minutes_ago} minutes ago. "
       if @client.access_token.valid?

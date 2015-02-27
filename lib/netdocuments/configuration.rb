@@ -2,7 +2,7 @@ module Netdocuments
   class Configuration
 
     attr_accessor :cabinet_id,:client_secret,:refresh_token,:log_path,:folder_path_id,
-      :cabinet_name
+      :cabinet_name,:logger
 
     def initialize
       log_dir = create_log_dir
@@ -13,6 +13,7 @@ module Netdocuments
       @folder_path_id = '48'
       @cabinet_id = 'NG-12345'
       @cabinet_name ='Test'
+      @logger = Logger.new(STDOUT)
     end
 
     def create_log_dir
