@@ -64,7 +64,7 @@ module Netdocuments
     def subfolders
       Netdocuments.logger.info "Starting subfolders collection for: #{name}"
       nodes = []
-      ids = [{id: @id, parent: "WorkspaceResetTest/#{name}"}]
+      ids = [{id: @id, parent: "#{Netdocuments.configuration.cabinet_name}/#{name}"}]
       loop do
         r =  ids.collect do |id|
           folder_extraction(id)

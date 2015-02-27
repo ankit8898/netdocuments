@@ -1,7 +1,8 @@
 module Netdocuments
   class Configuration
 
-    attr_accessor :cabinet_id,:client_secret,:refresh_token,:log_path,:folder_path_id
+    attr_accessor :cabinet_id,:client_secret,:refresh_token,:log_path,:folder_path_id,
+      :cabinet_name
 
     def initialize
       log_dir = create_log_dir
@@ -10,6 +11,8 @@ module Netdocuments
       @refresh_token = '1291271823781273712129127182378127371212912718237812737121291271823781273712'
       @log_path = "#{log_dir}/netdocuments.log"
       @folder_path_id = '48'
+      @cabinet_id = 'NG-12345'
+      @cabinet_name ='Test'
     end
 
     def create_log_dir
