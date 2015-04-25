@@ -1,6 +1,8 @@
 module Netdocuments
   class Client
 
+    include Singleton
+
     attr_reader :refresh_token,:client_secret,:access_token
 
 

@@ -2,10 +2,9 @@ module Netdocuments
   class Node < Base
 
 
-    attr_reader :name,:id,:extension,:parent,:client,:folder_path
+    attr_reader :name,:id,:extension,:parent,:folder_path
 
-    def initialize(client,opts = {})
-      @client = client
+    def initialize(opts = {})
       validate_config!
       @name = opts[:name]
       @id = opts[:id]
@@ -18,10 +17,10 @@ module Netdocuments
       # Netdocuments.logger.info "Updating #{name} with file path as #{folder_path}"
       if extension == 'ndfld'
         q1  = {'customAttributes' => [{"id" => Netdocuments.configuration.folder_path_id,"value" => Netdocuments::PathFormatter.new(folder_path).format}]}
-        Netdocuments::Folder.new(@client,id: id).update_info({query: q1.to_json})
+        Netdocuments::Folder.new(id: id).update_info({query: q1.to_json})
       else
         q1  = {'customAttributes' => [{"id" => Netdocuments.configuration.folder_path_id,"value" => Netdocuments::PathFormatter.new(folder_path).format}]}
-        Netdocuments::Document.new(@client,id: id).update_info({query: q1.to_json})
+        Netdocuments::Document.new(id: id).update_info({query: q1.to_json})
       end
     end
   end

@@ -1,19 +1,15 @@
 module Netdocuments
   class Folder < Base
 
-    attr_reader :id,:name,:query,:parent,:cabinet_id,:client
+    attr_reader :id,:name,:query,:parent
 
-    def initialize(client,opts = {})
-      @client = client
+    def initialize(opts = {})
       validate_config!
-      @headers = {'Authorization' => "Bearer #{@client.access_token.token}"}
-      @id      = opts[:id]     if opts[:id]
+      @id      = URI::encode(opts[:id])  if opts[:id]
       @name    = opts[:name]   if opts[:name]
       @query   = opts[:query]  if opts[:query]
       @parent  = opts[:parent] if opts[:parent]
-
     end
-
 
     def cabinet_id
       Netdocuments.configuration.cabinet_id
@@ -25,23 +21,23 @@ module Netdocuments
              name: @name,
              parent: @parent
            },
-           headers: @headers)
+           headers: headers)
     end
 
     def info
       get(url: "/v1/Folder/#{@id}/info",
-          headers: @headers)
+          headers: headers)
     end
 
     def folder_content
       begin
         response = get(url: "/v1/Folder/#{id}",
                        query: {'$select' => 'standardAttributes'},
-                       headers: @headers)
+                       headers: headers)
         response["ndList"]["standardList"].nil? ? [] : [response["ndList"]["standardList"]["ndProfile.DocumentStat"]].flatten
       rescue Exception => e
-        Netdocuments.logger.error "********* #{id} ********* #{e.message}"
-        Netdocuments.logger.error e.backtrace.join("\n")
+        puts "********* #{id} ********* #{e.message}"
+        puts e.backtrace.join("\n")
         []
       end
 
@@ -49,9 +45,9 @@ module Netdocuments
 
 
     def folder_extraction(opts = {})
-      contents = Netdocuments::Folder.new(@client, {id: opts[:id]}).folder_content.compact
+      contents = Netdocuments::Folder.new(id: opts[:id]).folder_content.compact
       col = contents.collect do |folder|
-        obj = Netdocuments::Node.new(@client,name: folder['name'],
+        obj = Netdocuments::Node.new(name: folder['name'],
                                      id: folder['id'],
                                      extension: folder['extension'],
                                      parent: opts[:parent],
@@ -79,15 +75,18 @@ module Netdocuments
 
 
     def ancestry
-      response = get(url: "/v1/Folder/#{@id}/ancestry",headers: @headers)
+      response = get(url: "/v1/Folder/#{@id}/ancestry",headers: headers)
     end
 
     def update_info(opts = {})
       response = put(url: "/v1/Folder/#{@id}/info",
                      query: opts[:query],
-                     headers: @headers.merge({'Content-Type' => 'application/json'}))
+                     headers: headers.merge({'Content-Type' => 'application/json'}))
     end
 
 
+    def headers
+      {'Authorization' => "Bearer #{client.access_token.token}"}
+    end
   end
 end

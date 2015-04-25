@@ -27,13 +27,19 @@ module Netdocuments
     end
 
 
+    def client
+      obj = Netdocuments::Client.instance
+      obj.get_token
+      obj
+    end
+
     def validate_config!
       #logger.info "Token is: #{@client.access_token.valid? ? 'valid' : 'invalid'} ..Last generated: #{@client.access_token.last_generated_minutes_ago} minutes ago. "
-      if @client.access_token.valid?
+      if client.access_token.valid?
         true
       else
-        Netdocuments.logger.info "Fetching new token..."
-        @client.get_token
+        puts "Fetching new token..."
+        client.get_token
       end
     end
   end

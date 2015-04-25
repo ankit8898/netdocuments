@@ -1,3 +1,6 @@
 netdocuments.log
 
 examples/using_client.rb
+examples/block.rb
+examples/using_client_2.rb
+.DS_Store

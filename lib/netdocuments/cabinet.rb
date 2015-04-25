@@ -3,10 +3,8 @@ module Netdocuments
 
     attr_reader :id
 
-    def initialize(client,opts = {})
-      @client = client
+    def initialize(opts = {})
       validate_config!
-      @headers = {'Authorization' => "Bearer #{@client.access_token.token}"}
       @id = opts[:id] if opts[:id]
     end
 
@@ -31,13 +29,17 @@ module Netdocuments
       Netdocuments.logger.info "Fetching folders..."
       response = get(url: "/v1/Cabinet/#{@id}/folders",
                      query: {'$select' => "standardAttributes"},
-                     headers: @headers)
-      response["ndList"]["standardList"]["ndProfile.DocumentStat"].collect {|i| Netdocuments::Folder.new(@client,{id: i['id'],name: i['name']})}
+                     headers: headers)
+      response["ndList"]["standardList"]["ndProfile.DocumentStat"].collect {|i| Netdocuments::Folder.new(id: i['id'],name: i['name'])}
     end
 
 
     def info
-      get(url: "/v1/Cabinet/#{@id}/info",headers: @headers)
+      get(url: "/v1/Cabinet/#{@id}/info",headers: headers)
+    end
+
+    def headers
+      {'Authorization' => "Bearer #{client.access_token.token}"}
     end
   end
 end
