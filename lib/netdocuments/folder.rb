@@ -36,8 +36,8 @@ module Netdocuments
                        headers: headers)
         response["ndList"]["standardList"].nil? ? [] : [response["ndList"]["standardList"]["ndProfile.DocumentStat"]].flatten
       rescue Exception => e
-        puts "********* #{id} ********* #{e.message}"
-        puts e.backtrace.join("\n")
+        #puts "********* #{id} ********* #{e.message}"
+        #puts e.backtrace.join("\n")
         []
       end
 
