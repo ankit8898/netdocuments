@@ -84,6 +84,27 @@ module Netdocuments
                      headers: headers.merge({'Content-Type' => 'application/json'}))
     end
 
+    #udpating nodes via sidekiq worker
+    def find_subfolders_and_update_nodes
+      Netdocuments.logger.info "Starting subfolders collection.."
+      nodes = []
+      ids = [{id: @id, parent: "#{Netdocuments.configuration.cabinet_name}/#{name}"}]
+      loop do
+        r =  ids.collect do |id|
+          folder_extraction(id)
+        end.flatten!
+        nodes << r
+        nodes.flatten.each do |node|
+          NodeWorker.perform_async(node.id,node.extension,node.folder_path)
+        end
+        nodes = []
+        folders = r.select {|i| i.extension == 'ndfld'}
+        ids = folders.collect {|o| {id: o.id,parent: "#{o.parent}/#{o.name}"}}
+        break if ids.count == 0
+      end
+      nodes.flatten!
+    end
+
 
     def headers
       {'Authorization' => "Bearer #{client.access_token.token}"}
