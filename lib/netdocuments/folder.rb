@@ -95,6 +95,7 @@ module Netdocuments
         end.flatten!
         nodes << r
         nodes.flatten.each do |node|
+          puts "Updating Node ... #{node.name} with path #{node.folder_path}"
           NodeWorker.perform_async(node.id,node.extension,node.folder_path)
         end
         nodes = []
