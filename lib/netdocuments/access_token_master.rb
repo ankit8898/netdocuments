@@ -9,7 +9,7 @@ module Netdocuments
       @client_secret = opts[:client_secret]
       @refresh_token = opts[:refresh_token]
       @generated_at  = Time.now
-      @validity      = 1 #this is in minutes
+      @validity      = 30 #this is in minutes
       @token         = get_token
     end
 
