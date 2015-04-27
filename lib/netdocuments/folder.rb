@@ -87,7 +87,7 @@ module Netdocuments
     #udpating nodes via sidekiq worker
     def find_subfolders_and_update_nodes
       stats = {nodes_count: 0,folder_name: name}
-      Netdocuments.logger.info "Starting subfolders collection.."
+      Netdocuments.logger.info "Starting subfolders collection for - #{name}"
       nodes = []
       ids = [{id: @id, parent: "#{Netdocuments.configuration.cabinet_name}/#{name}"}]
       loop do

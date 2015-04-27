@@ -13,7 +13,8 @@ module Netdocuments
     def get(opts = {})
       HTTParty.get(END_POINT + opts[:url],
                    query: opts[:query],
-                   headers: opts[:headers])
+                   headers: opts[:headers],
+                   timeout: 180)
     end
 
     def put(opts = {})
