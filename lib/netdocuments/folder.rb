@@ -87,7 +87,7 @@ module Netdocuments
     #udpating nodes via sidekiq worker
     def find_subfolders_and_update_nodes
       stats = {nodes_count: 0,folder_name: name}
-      Netdocuments.logger.info "Starting subfolders collection for - #{name}"
+      puts "---- Starting subfolders collection for - #{name} ---- "
       nodes = []
       ids = [{id: @id, parent: "#{Netdocuments.configuration.cabinet_name}/#{name}"}]
       loop do
@@ -97,7 +97,7 @@ module Netdocuments
         nodes << r
         stats[:nodes_count] = stats[:nodes_count] + nodes.flatten.count
         nodes.flatten.each do |node|
-          puts "Updating Node ... #{node.name} with path #{node.folder_path}"
+          puts "---- Pushing: #{node.folder_path} in node queue ----"
           NodeWorker.perform_async(node.id,node.extension,node.folder_path)
         end
         nodes = []

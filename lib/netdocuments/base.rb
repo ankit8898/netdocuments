@@ -6,7 +6,8 @@ module Netdocuments
     def post(opts = {})
       HTTParty.post(END_POINT + opts[:url],
                     :body => opts[:body],
-                    :headers => opts[:headers])
+                    :headers => opts[:headers],
+                    :timeout => 180)
     end
 
 
