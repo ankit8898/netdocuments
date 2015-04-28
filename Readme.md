@@ -29,26 +29,11 @@ end
 
 ```
 
-Initiate the client instance
-
-```ruby
-
-client = Netdocuments::Client.new
-
-```
-
-Fetch the token, it regenerates after 30 mins
-
-```ruby
-#Fetch the token
-client.get_token
-
-```
 
 ```ruby
 # Cabinet
 # ==================================================
-cabinet = Netdocuments::Cabinet.new(client,id: 'NG-2QORXCL4')
+cabinet = Netdocuments::Cabinet.new(id: 'NG-2QORXCL4')
 
 # Cabinet folders
 cabinet.folders
@@ -61,7 +46,7 @@ cabinet.info
 # Folder
 # =======================================================
 
-folder = Netdocuments::Folder.new(client,id: '4815-5113-1938')
+folder = Netdocuments::Folder.new(id: '4815-5113-1938')
 
 # Subfolders
 
@@ -79,13 +64,13 @@ folder.folder_content
 
 folder.update_info(query: {})
 # Creating a folder
-folder = Netdocuments::Folder.new(client,name: 'Foo folder',parent: '4815-5113-1938')
+folder = Netdocuments::Folder.new(name: 'Foo folder',parent: '4815-5113-1938')
 folder.create
 
 # Documents
 # ===================================================================================
 
-document = Netdocuments::Document.new(client,id: '4824-5093-9170')
+document = Netdocuments::Document.new(id: '4824-5093-9170')
 
 #info
 
